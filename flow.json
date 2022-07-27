@@ -137,12 +137,9 @@
         "category": "",
         "in": [
             {
-                "x": 80,
-                "y": 40,
+                "x": 100,
+                "y": 260,
                 "wires": [
-                    {
-                        "id": "b8d7af4b.ffd13"
-                    },
                     {
                         "id": "90cb8282.4f801"
                     },
@@ -150,7 +147,13 @@
                         "id": "7c490510.d48eac"
                     },
                     {
-                        "id": "f49a56c5.dfdfa8"
+                        "id": "78dde222438cf313"
+                    },
+                    {
+                        "id": "f2dcb6360f9346c6"
+                    },
+                    {
+                        "id": "78a6870dad2d635a"
                     }
                 ]
             }
@@ -491,25 +494,6 @@
         "icon": "font-awesome/fa-print"
     },
     {
-        "id": "3f6ee059.0711",
-        "type": "group",
-        "z": "fd9f1c1.a5554e",
-        "name": "Gauche Sonoof 8 CH",
-        "style": {
-            "fill": "#ffff3f",
-            "label": true,
-            "color": "#000000"
-        },
-        "nodes": [
-            "caadaa3a.f1acf8",
-            "9de43d88.cb502",
-            "991ace47.d4054",
-            "209377a3.75c858"
-        ],
-        "x": 594,
-        "y": 19
-    },
-    {
         "id": "65d645b.a57d1bc",
         "type": "group",
         "z": "fd9f1c1.a5554e",
@@ -524,7 +508,9 @@
             "b1df8b44.c7d148"
         ],
         "x": 594,
-        "y": 519
+        "y": 519,
+        "w": 212,
+        "h": 122
     },
     {
         "id": "c6abcca2.0502d",
@@ -560,7 +546,9 @@
             "207f6227ea98a627"
         ],
         "x": 14,
-        "y": 19
+        "y": 19,
+        "w": 752,
+        "h": 522
     },
     {
         "id": "9252146b.03fc08",
@@ -574,16 +562,15 @@
             "color": "#bfdbef"
         },
         "nodes": [
-            "7ce6aa85.bf1c44",
             "4cea06b0.d9b558",
-            "835bdc58.7d218",
             "c2565bc4.61f098",
             "81467df.85da68",
-            "ed85c409e5f57648",
-            "b689173bee2475e0"
+            "4ec2d4346ab03bf2"
         ],
         "x": 794,
-        "y": 219
+        "y": 219,
+        "w": 572,
+        "h": 122
     },
     {
         "id": "5543a07b.da5c6",
@@ -612,7 +599,9 @@
             "ddd76ccf.e35ee"
         ],
         "x": 1034,
-        "y": 479
+        "y": 479,
+        "w": 992,
+        "h": 289.5
     },
     {
         "id": "65dad809.9aa608",
@@ -650,7 +639,9 @@
             "49988c0962f264d7"
         ],
         "x": 794,
-        "y": 659
+        "y": 659,
+        "w": 912,
+        "h": 382
     },
     {
         "id": "a0b00255.fbed9",
@@ -691,7 +682,9 @@
             "cd5b4698.b32608"
         ],
         "x": 1434,
-        "y": 19
+        "y": 19,
+        "w": 392,
+        "h": 202
     },
     {
         "id": "626f2fe9.095fe",
@@ -713,7 +706,9 @@
             "46bbc050.e7341"
         ],
         "x": 754,
-        "y": 1299
+        "y": 1299,
+        "w": 792,
+        "h": 222
     },
     {
         "id": "aed256f1.649fa8",
@@ -766,7 +761,9 @@
             "20ca9bd58fcb5b3e"
         ],
         "x": -6,
-        "y": 19
+        "y": 19,
+        "w": 1012,
+        "h": 942
     },
     {
         "id": "5b43065d.519348",
@@ -788,7 +785,9 @@
             "3e994ad5.5aed86"
         ],
         "x": 1034,
-        "y": -1
+        "y": -1,
+        "w": 782,
+        "h": 142
     },
     {
         "id": "5531669a.697438",
@@ -879,7 +878,9 @@
             "56b0fb48.a33b14"
         ],
         "x": 1034,
-        "y": 159
+        "y": 159,
+        "w": 1012,
+        "h": 289.5
     },
     {
         "id": "9afb718d.493d",
@@ -930,7 +931,6 @@
             "dad84cc9.2b001",
             "23c0a06d.fefca",
             "b41bcd9.904693",
-            "418ae846.cc1288",
             "94e9cca6.114be",
             "11d9ba56.d644a6",
             "c4b54d66.9639b",
@@ -940,11 +940,13 @@
             "e9231b3.c2c56e8",
             "17c00b9d.c0e704",
             "1fa045a02039297f",
-            "271bbc0ddab81578"
+            "271bbc0ddab81578",
+            "32e8a156d06b7942",
+            "4c05e45fc1503cae"
         ],
         "x": 14,
         "y": 339,
-        "w": 1452,
+        "w": 1412,
         "h": 382
     },
     {
@@ -1016,7 +1018,9 @@
             "dfe297eb.4c59e8"
         ],
         "x": 1434,
-        "y": 239
+        "y": 239,
+        "w": 532,
+        "h": 189.5
     },
     {
         "id": "4a69ca19.2da874",
@@ -1040,7 +1044,9 @@
             "b72bb6a6.9eb048"
         ],
         "x": 14,
-        "y": 559
+        "y": 559,
+        "w": 752,
+        "h": 202
     },
     {
         "id": "ec77e8f6.b62408",
@@ -1562,7 +1568,9 @@
             "564c8b8.2d69374"
         ],
         "x": 794,
-        "y": 459
+        "y": 459,
+        "w": 1012,
+        "h": 182
     },
     {
         "id": "319c7d7d.cd7122",
@@ -1811,8 +1819,10 @@
             "85a1a30d.5e179",
             "eac29933.ad61e8"
         ],
-        "x": 974,
-        "y": 19
+        "x": 634,
+        "y": 39,
+        "w": 292,
+        "h": 182
     },
     {
         "id": "61c30ffd.1ff36",
@@ -1833,7 +1843,9 @@
             "2cd52b4ff0be2af0"
         ],
         "x": 14,
-        "y": 39
+        "y": 39,
+        "w": 472,
+        "h": 409.5
     },
     {
         "id": "760ad0d2.b9337",
@@ -1857,7 +1869,9 @@
             "bdc8335b.43c23"
         ],
         "x": 1034,
-        "y": 791.5
+        "y": 791.5,
+        "w": 952,
+        "h": 149.5
     },
     {
         "id": "464fc13b.63fec",
@@ -2036,10 +2050,13 @@
             "dd8afbdb.98d058",
             "ffc96653.2bde08",
             "70d4a31b.09b06c",
-            "287038db.f7bcf8"
+            "287038db.f7bcf8",
+            "441ed0a5728af34d"
         ],
         "x": 754,
-        "y": 19
+        "y": 19,
+        "w": 992,
+        "h": 1262
     },
     {
         "id": "97bd8de5.cac92",
@@ -2072,7 +2089,9 @@
             "55f1e1b5bba447fa"
         ],
         "x": 34,
-        "y": 1059
+        "y": 1059,
+        "w": 1232,
+        "h": 382
     },
     {
         "id": "e6854997.1052a8",
@@ -2094,7 +2113,9 @@
             "0633467d1d30649b"
         ],
         "x": 794,
-        "y": 19
+        "y": 19,
+        "w": 572,
+        "h": 182
     },
     {
         "id": "98e748f4598d0b92",
@@ -2167,7 +2188,9 @@
             "8d024c9fdc13f056"
         ],
         "x": 34,
-        "y": 19
+        "y": 19,
+        "w": 692,
+        "h": 782
     },
     {
         "id": "a886b72e2c3d2cda",
@@ -2191,7 +2214,9 @@
             "41ea3534f0054ea0"
         ],
         "x": 1034,
-        "y": 959
+        "y": 959,
+        "w": 932,
+        "h": 202
     },
     {
         "id": "de9a5bfb0704e2ae",
@@ -2207,7 +2232,9 @@
             "4f582706fe4b3efe"
         ],
         "x": 24,
-        "y": 979
+        "y": 979,
+        "w": 542,
+        "h": 82
     },
     {
         "id": "637fbef2c6f5e0a5",
@@ -2251,7 +2278,9 @@
             "11c9c8fc154dcbb8"
         ],
         "x": 14,
-        "y": 779
+        "y": 779,
+        "w": 752,
+        "h": 242
     },
     {
         "id": "a4d10e3019b9b0f6",
@@ -2272,7 +2301,9 @@
             "99c8946ef341c73e"
         ],
         "x": 14,
-        "y": 579
+        "y": 579,
+        "w": 592,
+        "h": 222
     },
     {
         "id": "ec989bf1829ff60d",
@@ -2300,7 +2331,9 @@
             "9def0d26596b36bf"
         ],
         "x": 14,
-        "y": 39
+        "y": 39,
+        "w": 692,
+        "h": 422
     },
     {
         "id": "4fc89c93f3f2dd2d",
@@ -2320,7 +2353,9 @@
             "30308f742db3f165"
         ],
         "x": 14,
-        "y": 479
+        "y": 479,
+        "w": 932,
+        "h": 82
     },
     {
         "id": "ec122d7706b9e41c",
@@ -2402,7 +2437,9 @@
             "9998c504179b8df2"
         ],
         "x": 34,
-        "y": 67
+        "y": 67,
+        "w": 1312,
+        "h": 462
     },
     {
         "id": "67fc0d9319bad7b9",
@@ -2425,7 +2462,9 @@
             "11d2e476c18eb38d"
         ],
         "x": 34,
-        "y": 579
+        "y": 579,
+        "w": 972,
+        "h": 122
     },
     {
         "id": "64d017b7402143d1",
@@ -2447,7 +2486,9 @@
             "6b68626e2a3ead1d"
         ],
         "x": 34,
-        "y": 719
+        "y": 719,
+        "w": 572,
+        "h": 142
     },
     {
         "id": "cb3057f3e5080ce3",
@@ -3147,48 +3188,6 @@
         ]
     },
     {
-        "id": "459ca159.acd35",
-        "type": "function",
-        "z": "3d40e23b.ebcdce",
-        "name": "",
-        "func": "msg.payload={\n    \"on\": false\n\n}\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 480,
-        "y": 100,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "b8d7af4b.ffd13",
-        "type": "delay",
-        "z": "3d40e23b.ebcdce",
-        "name": "",
-        "pauseType": "delay",
-        "timeout": "10",
-        "timeoutUnits": "seconds",
-        "rate": "1",
-        "nbRateUnits": "1",
-        "rateUnits": "second",
-        "randomFirst": "1",
-        "randomLast": "5",
-        "randomUnits": "seconds",
-        "drop": false,
-        "allowrate": false,
-        "outputs": 1,
-        "x": 340,
-        "y": 100,
-        "wires": [
-            [
-                "459ca159.acd35"
-            ]
-        ]
-    },
-    {
         "id": "bc148218.96727",
         "type": "mqtt out",
         "z": "3d40e23b.ebcdce",
@@ -3201,8 +3200,8 @@
         "userProps": "",
         "correl": "",
         "expiry": "",
-        "broker": "5bb4a1c1.27662",
-        "x": 530,
+        "broker": "6ab4d33316cf218b",
+        "x": 490,
         "y": 220,
         "wires": []
     },
@@ -3272,27 +3271,58 @@
         ]
     },
     {
-        "id": "f49a56c5.dfdfa8",
-        "type": "delay",
+        "id": "78dde222438cf313",
+        "type": "zigbee2mqtt-out",
         "z": "3d40e23b.ebcdce",
-        "name": "",
-        "pauseType": "delay",
-        "timeout": "3",
-        "timeoutUnits": "seconds",
-        "rate": "1",
-        "nbRateUnits": "1",
-        "rateUnits": "second",
-        "randomFirst": "1",
-        "randomLast": "5",
-        "randomUnits": "seconds",
-        "drop": false,
-        "allowrate": false,
-        "outputs": 1,
-        "x": 340,
-        "y": 560,
-        "wires": [
-            []
-        ]
+        "name": "Spot Lidl Salon 1",
+        "server": "e17f99a94c99cbb8",
+        "friendly_name": "Spot Lidl Salon 1 (HG06106A)",
+        "device_id": "0x842e14fffe125429",
+        "command": "state",
+        "commandType": "z2m_cmd",
+        "payload": "off",
+        "payloadType": "z2m_payload",
+        "optionsValue": "",
+        "optionsType": "nothing",
+        "x": 370,
+        "y": 280,
+        "wires": []
+    },
+    {
+        "id": "f2dcb6360f9346c6",
+        "type": "zigbee2mqtt-out",
+        "z": "3d40e23b.ebcdce",
+        "name": "Spot Lidl Salon 2",
+        "server": "e17f99a94c99cbb8",
+        "friendly_name": "Spot Lidl Salon 2 (HG06106A)",
+        "device_id": "0x842e14fffe9e2110",
+        "command": "state",
+        "commandType": "z2m_cmd",
+        "payload": "off",
+        "payloadType": "z2m_payload",
+        "optionsValue": "",
+        "optionsType": "nothing",
+        "x": 370,
+        "y": 320,
+        "wires": []
+    },
+    {
+        "id": "78a6870dad2d635a",
+        "type": "zigbee2mqtt-out",
+        "z": "3d40e23b.ebcdce",
+        "name": "Spot Lidl Salon 3",
+        "server": "e17f99a94c99cbb8",
+        "friendly_name": "Spot Lidl Salon 3 (HG06106A)",
+        "device_id": "0x588e81fffeef3f7c",
+        "command": "state",
+        "commandType": "z2m_cmd",
+        "payload": "off",
+        "payloadType": "z2m_payload",
+        "optionsValue": "",
+        "optionsType": "nothing",
+        "x": 370,
+        "y": 360,
+        "wires": []
     },
     {
         "id": "3bdde393.d0109c",
@@ -6900,8 +6930,9 @@
         "wires": [
             [
                 "a32f0411.7090d8",
-                "418ae846.cc1288",
-                "e9231b3.c2c56e8"
+                "e9231b3.c2c56e8",
+                "32e8a156d06b7942",
+                "4c05e45fc1503cae"
             ]
         ]
     },
@@ -6918,7 +6949,7 @@
         "finalize": "",
         "libs": [],
         "x": 1200,
-        "y": 440,
+        "y": 540,
         "wires": [
             [
                 "94e9cca6.114be"
@@ -6969,8 +7000,8 @@
         "links": [
             "caadaa3a.f1acf8"
         ],
-        "x": 970,
-        "y": 440,
+        "x": 1050,
+        "y": 540,
         "wires": [
             [
                 "a32f0411.7090d8"
@@ -7547,8 +7578,8 @@
         "bridge": "a8fc6cf3.c8e82",
         "groupid": "1",
         "skipevents": false,
-        "x": 1390,
-        "y": 440,
+        "x": 1350,
+        "y": 540,
         "wires": [
             []
         ]
@@ -7807,18 +7838,18 @@
         "type": "zigbee2mqtt-out",
         "z": "f1a202e8.6987c",
         "g": "22d3e8bf.c3c6f8",
-        "name": "Spot Lidl Salon on",
-        "server": "feeb323e.3e07e",
-        "friendly_name": "groupe spot lidl",
-        "device_id": "1",
+        "name": "Spot Lidl Salon 1",
+        "server": "e17f99a94c99cbb8",
+        "friendly_name": "Spot Lidl Salon 1 (HG06106A)",
+        "device_id": "0x842e14fffe125429",
         "command": "state",
         "commandType": "z2m_cmd",
         "payload": "on",
         "payloadType": "z2m_payload",
         "optionsValue": "",
         "optionsType": "nothing",
-        "x": 1230,
-        "y": 480,
+        "x": 1190,
+        "y": 380,
         "wires": []
     },
     {
@@ -8044,34 +8075,6 @@
         "queue": "none",
         "x": 810,
         "y": 540,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "418ae846.cc1288",
-        "type": "api-call-service",
-        "z": "f1a202e8.6987c",
-        "g": "22d3e8bf.c3c6f8",
-        "name": "lampe chevre On",
-        "server": "74ee819e.f5e25",
-        "version": 5,
-        "debugenabled": false,
-        "domain": "switch",
-        "service": "turn_on",
-        "areaId": [],
-        "deviceId": [],
-        "entityId": [
-            "switch.sonoff_basiczbr3"
-        ],
-        "data": "",
-        "dataType": "json",
-        "mergeContext": "",
-        "mustacheAltTags": false,
-        "outputProperties": [],
-        "queue": "none",
-        "x": 1230,
-        "y": 380,
         "wires": [
             []
         ]
@@ -8805,6 +8808,44 @@
                 "32f8e08a05642995"
             ]
         ]
+    },
+    {
+        "id": "32e8a156d06b7942",
+        "type": "zigbee2mqtt-out",
+        "z": "f1a202e8.6987c",
+        "g": "22d3e8bf.c3c6f8",
+        "name": "Spot Lidl Salon 2",
+        "server": "e17f99a94c99cbb8",
+        "friendly_name": "Spot Lidl Salon 2 (HG06106A)",
+        "device_id": "0x842e14fffe9e2110",
+        "command": "state",
+        "commandType": "z2m_cmd",
+        "payload": "on",
+        "payloadType": "z2m_payload",
+        "optionsValue": "",
+        "optionsType": "nothing",
+        "x": 1190,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "4c05e45fc1503cae",
+        "type": "zigbee2mqtt-out",
+        "z": "f1a202e8.6987c",
+        "g": "22d3e8bf.c3c6f8",
+        "name": "Spot Lidl Salon 3",
+        "server": "e17f99a94c99cbb8",
+        "friendly_name": "Spot Lidl Salon 3 (HG06106A)",
+        "device_id": "0x588e81fffeef3f7c",
+        "command": "state",
+        "commandType": "z2m_cmd",
+        "payload": "on",
+        "payloadType": "z2m_payload",
+        "optionsValue": "",
+        "optionsType": "nothing",
+        "x": 1190,
+        "y": 460,
+        "wires": []
     },
     {
         "id": "727ba882.fab928",
@@ -10057,46 +10098,6 @@
             },
             {
                 "t": "cont",
-                "v": "C63178",
-                "vt": "str"
-            },
-            {
-                "t": "cont",
-                "v": "C6317C",
-                "vt": "str"
-            },
-            {
-                "t": "cont",
-                "v": "C63174",
-                "vt": "str"
-            },
-            {
-                "t": "cont",
-                "v": "C63179",
-                "vt": "str"
-            },
-            {
-                "t": "cont",
-                "v": "C63172",
-                "vt": "str"
-            },
-            {
-                "t": "cont",
-                "v": "C63175",
-                "vt": "str"
-            },
-            {
-                "t": "cont",
-                "v": "C63171",
-                "vt": "str"
-            },
-            {
-                "t": "cont",
-                "v": "C63173",
-                "vt": "str"
-            },
-            {
-                "t": "cont",
                 "v": "FC37A1",
                 "vt": "str"
             },
@@ -10173,7 +10174,7 @@
         ],
         "checkall": "true",
         "repair": false,
-        "outputs": 27,
+        "outputs": 19,
         "x": 410,
         "y": 280,
         "wires": [
@@ -10184,20 +10185,6 @@
                 "f3b2975f.913b58"
             ],
             [],
-            [],
-            [],
-            [],
-            [
-                "209377a3.75c858"
-            ],
-            [],
-            [
-                "caadaa3a.f1acf8"
-            ],
-            [],
-            [
-                "9de43d88.cb502"
-            ],
             [],
             [
                 "9189fa3.ccee608",
@@ -10248,14 +10235,6 @@
             "Telco blanche Alarm Off",
             "Telco blanche btn 3",
             "Telco blanche btn 4",
-            "sonoff 8 ch btn 1",
-            "sonoff 8 ch btn 2",
-            "sonoff 8 ch btn 3",
-            "sonoff 8 ch btn 4",
-            "sonoff 8 ch btn 5",
-            "sonoff 8 ch btn 6",
-            "sonoff 8 ch btn 7",
-            "sonoff 8 ch btn 8",
             "Telco Papa on",
             "Telco Papa off",
             "kerui incendie",
@@ -10272,20 +10251,6 @@
             "rf433 glass 2",
             "Kerui sonnette"
         ]
-    },
-    {
-        "id": "caadaa3a.f1acf8",
-        "type": "link out",
-        "z": "fd9f1c1.a5554e",
-        "g": "3f6ee059.0711",
-        "name": "Hue out",
-        "links": [
-            "b41bcd9.904693"
-        ],
-        "x": 680,
-        "y": 100,
-        "wires": [],
-        "l": true
     },
     {
         "id": "22ae15ea.cffc0a",
@@ -10340,34 +10305,6 @@
         "l": true
     },
     {
-        "id": "209377a3.75c858",
-        "type": "change",
-        "z": "fd9f1c1.a5554e",
-        "g": "3f6ee059.0711",
-        "name": "toggle",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "toggle",
-                "tot": "str"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 670,
-        "y": 60,
-        "wires": [
-            [
-                "991ace47.d4054"
-            ]
-        ]
-    },
-    {
         "id": "f6af11d9.f01dd",
         "type": "inject",
         "z": "fd9f1c1.a5554e",
@@ -10384,8 +10321,8 @@
         "onceDelay": 0.1,
         "topic": "",
         "payloadType": "date",
-        "x": 1110,
-        "y": 100,
+        "x": 770,
+        "y": 120,
         "wires": [
             [
                 "85a1a30d.5e179"
@@ -10404,8 +10341,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1120,
-        "y": 160,
+        "x": 780,
+        "y": 180,
         "wires": [
             []
         ]
@@ -10417,8 +10354,8 @@
         "g": "f57f6f98.777c3",
         "name": "Variables Globales_________",
         "info": "",
-        "x": 1120,
-        "y": 60,
+        "x": 780,
+        "y": 80,
         "wires": []
     },
     {
@@ -10525,40 +10462,6 @@
         "statusType": "auto",
         "x": 790,
         "y": 320,
-        "wires": []
-    },
-    {
-        "id": "9de43d88.cb502",
-        "type": "sonos-universal",
-        "z": "fd9f1c1.a5554e",
-        "g": "3f6ee059.0711",
-        "confignode": "385343e236d2fa0f",
-        "command": "player.play.tv",
-        "state": "",
-        "stateType": "str",
-        "avoidCheckPlayerAvailability": false,
-        "name": "",
-        "x": 690,
-        "y": 160,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "991ace47.d4054",
-        "type": "zigbee2mqtt-out",
-        "z": "fd9f1c1.a5554e",
-        "g": "3f6ee059.0711",
-        "name": "chevre",
-        "server": "feeb323e.3e07e",
-        "friendly_name": "lampe_chevre",
-        "device_id": "0x00124b001e731d0a",
-        "command": "state",
-        "commandType": "z2m_cmd",
-        "payload": "payload",
-        "payloadType": "msg",
-        "x": 870,
-        "y": 60,
         "wires": []
     },
     {
@@ -10906,7 +10809,7 @@
         "z": "65d53490.95139c",
         "g": "61f68869.5ef4c8",
         "name": "",
-        "property": "payload.click",
+        "property": "payload",
         "propertyType": "msg",
         "rules": [
             {
@@ -11489,7 +11392,9 @@
             [
                 "69c3b2a.756a74c"
             ],
-            [],
+            [
+                "441ed0a5728af34d"
+            ],
             [
                 "88a633cb.6690f"
             ],
@@ -12130,7 +12035,7 @@
         "z": "65d53490.95139c",
         "g": "61f68869.5ef4c8",
         "mode": "1",
-        "broker": "5bb4a1c1.27662",
+        "broker": "6ab4d33316cf218b",
         "device": "SonoffMiniGarage",
         "name": "SonoffMiniGarage",
         "onValue": "ON",
@@ -12172,11 +12077,13 @@
         "z": "65d53490.95139c",
         "g": "61f68869.5ef4c8",
         "name": "Inter G Ikea",
-        "server": "feeb323e.3e07e",
-        "friendly_name": "Inter_Garage",
-        "device_id": "0xec1bbdfffe2f55f3",
-        "state": "0",
+        "server": "e17f99a94c99cbb8",
+        "friendly_name": "Inter Garage (E1743)",
+        "device_id": "0x804b50fffe5fd0f6",
+        "state": "action",
         "outputAtStartup": true,
+        "filterChanges": true,
+        "enableMultiple": false,
         "x": 860,
         "y": 580,
         "wires": [
@@ -12191,11 +12098,13 @@
         "z": "65d53490.95139c",
         "g": "61f68869.5ef4c8",
         "name": "Inter Double aqara",
-        "server": "feeb323e.3e07e",
-        "friendly_name": "inter_garage_double",
+        "server": "e17f99a94c99cbb8",
+        "friendly_name": "Inter Garage Double (WXKG02LM_rev2)",
         "device_id": "0x00158d0002b45de1",
         "state": "0",
         "outputAtStartup": false,
+        "filterChanges": true,
+        "enableMultiple": false,
         "x": 870,
         "y": 520,
         "wires": [
@@ -12210,13 +12119,15 @@
         "z": "65d53490.95139c",
         "g": "a37d6622.935938",
         "name": "chevre",
-        "server": "feeb323e.3e07e",
-        "friendly_name": "lampe_chevre",
+        "server": "e17f99a94c99cbb8",
+        "friendly_name": "Lampe Chevre (BASICZBR3)",
         "device_id": "0x00124b001e731d0a",
         "command": "state",
         "commandType": "z2m_cmd",
         "payload": "payload",
         "payloadType": "msg",
+        "optionsValue": "",
+        "optionsType": "nothing",
         "x": 550,
         "y": 60,
         "wires": []
@@ -12918,13 +12829,13 @@
         "z": "65d53490.95139c",
         "g": "a37d6622.935938",
         "name": "Temp Salon",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 3,
         "outputs": 1,
         "halt_if": "",
         "halt_if_type": "str",
         "halt_if_compare": "is",
-        "entity_id": "sensor.temp_salon_temperature",
+        "entity_id": "sensor.temperature_salon_temperature",
         "state_type": "str",
         "blockInputOverrides": false,
         "outputProperties": [
@@ -12935,6 +12846,8 @@
                 "valueType": "str"
             }
         ],
+        "for": "",
+        "forType": "num",
         "x": 350,
         "y": 720,
         "wires": [
@@ -13069,6 +12982,41 @@
         "y": 1000,
         "wires": [
             []
+        ]
+    },
+    {
+        "id": "441ed0a5728af34d",
+        "type": "change",
+        "z": "65d53490.95139c",
+        "g": "61f68869.5ef4c8",
+        "name": "Allumer",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "toggle",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "command",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1520,
+        "y": 540,
+        "wires": [
+            [
+                "46f4af92.56cc2"
+            ]
         ]
     },
     {
@@ -13681,57 +13629,36 @@
         ]
     },
     {
-        "id": "835bdc58.7d218",
-        "type": "link out",
-        "z": "8a56250a.f42758",
-        "g": "9252146b.03fc08",
-        "name": "Inter Osram cast in",
-        "links": [
-            "3c53cfff.26c38"
-        ],
-        "x": 1235,
-        "y": 300,
-        "wires": []
-    },
-    {
         "id": "c2565bc4.61f098",
         "type": "switch",
         "z": "8a56250a.f42758",
         "g": "9252146b.03fc08",
         "name": "",
-        "property": "payload.action",
+        "property": "payload",
         "propertyType": "msg",
         "rules": [
             {
                 "t": "eq",
-                "v": "up",
+                "v": "on",
                 "vt": "str"
             },
             {
                 "t": "eq",
-                "v": "circle_click",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "down",
+                "v": "off",
                 "vt": "str"
             }
         ],
         "checkall": "true",
         "repair": false,
-        "outputs": 3,
-        "x": 1110,
-        "y": 320,
+        "outputs": 2,
+        "x": 1050,
+        "y": 280,
         "wires": [
             [
-                "7ce6aa85.bf1c44"
-            ],
-            [
-                "835bdc58.7d218"
-            ],
-            [
                 "4cea06b0.d9b558"
+            ],
+            [
+                "4ec2d4346ab03bf2"
             ]
         ]
     },
@@ -14311,32 +14238,6 @@
         "x": 550,
         "y": 120,
         "wires": []
-    },
-    {
-        "id": "b689173bee2475e0",
-        "type": "switch",
-        "z": "8a56250a.f42758",
-        "g": "9252146b.03fc08",
-        "name": "",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "play_pause",
-                "vt": "str"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 1130,
-        "y": 260,
-        "wires": [
-            [
-                "7ce6aa85.bf1c44"
-            ]
-        ]
     },
     {
         "id": "686e8395a8a61ebc",
@@ -15048,13 +14949,15 @@
         "z": "8a56250a.f42758",
         "g": "9252146b.03fc08",
         "name": "inter osram",
-        "server": "feeb323e.3e07e",
-        "friendly_name": "Inter_osram_blanc",
-        "device_id": "0x000d6f00109c6d0b",
-        "state": "0",
+        "server": "e17f99a94c99cbb8",
+        "friendly_name": "Inter Osram CH P (AC0251100NJ/AC0251600NJ/AC0251700NJ)",
+        "device_id": "0x000d6f00101ceea6",
+        "state": "action",
         "outputAtStartup": true,
+        "filterChanges": true,
+        "enableMultiple": false,
         "x": 880,
-        "y": 320,
+        "y": 280,
         "wires": [
             [
                 "c2565bc4.61f098"
@@ -15176,25 +15079,6 @@
         "wires": [
             [
                 "fd200963.5b2998"
-            ]
-        ]
-    },
-    {
-        "id": "ed85c409e5f57648",
-        "type": "zigbee2mqtt-in",
-        "z": "8a56250a.f42758",
-        "g": "9252146b.03fc08",
-        "name": "ikea sound",
-        "server": "feeb323e.3e07e",
-        "friendly_name": "Ikea_sound_controller",
-        "device_id": "0x680ae2fffe1015f4",
-        "state": "action",
-        "outputAtStartup": true,
-        "x": 880,
-        "y": 260,
-        "wires": [
-            [
-                "b689173bee2475e0"
             ]
         ]
     },
@@ -15462,44 +15346,16 @@
         ]
     },
     {
-        "id": "7ce6aa85.bf1c44",
-        "type": "api-call-service",
-        "z": "8a56250a.f42758",
-        "g": "9252146b.03fc08",
-        "name": "Toggle Lit",
-        "server": "74ee819e.f5e25",
-        "version": 5,
-        "debugenabled": false,
-        "domain": "light",
-        "service": "toggle",
-        "areaId": [],
-        "deviceId": [],
-        "entityId": [
-            "light.led_lit"
-        ],
-        "data": "",
-        "dataType": "json",
-        "mergeContext": "",
-        "mustacheAltTags": false,
-        "outputProperties": [],
-        "queue": "none",
-        "x": 1280,
-        "y": 260,
-        "wires": [
-            []
-        ]
-    },
-    {
         "id": "4cea06b0.d9b558",
         "type": "api-call-service",
         "z": "8a56250a.f42758",
         "g": "9252146b.03fc08",
-        "name": "Toggle chevet",
-        "server": "74ee819e.f5e25",
+        "name": "Chevet ON",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "light",
-        "service": "toggle",
+        "service": "turn_on",
         "areaId": [],
         "deviceId": [],
         "entityId": [
@@ -15511,8 +15367,8 @@
         "mustacheAltTags": false,
         "outputProperties": [],
         "queue": "none",
-        "x": 1300,
-        "y": 340,
+        "x": 1270,
+        "y": 260,
         "wires": [
             []
         ]
@@ -16373,6 +16229,34 @@
         "queue": "none",
         "x": 1100,
         "y": 1240,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "4ec2d4346ab03bf2",
+        "type": "api-call-service",
+        "z": "8a56250a.f42758",
+        "g": "9252146b.03fc08",
+        "name": "Chevet OFF",
+        "server": "5261c37d2408eef8",
+        "version": 5,
+        "debugenabled": false,
+        "domain": "light",
+        "service": "turn_off",
+        "areaId": [],
+        "deviceId": [],
+        "entityId": [
+            "light.chevet_aliki"
+        ],
+        "data": "",
+        "dataType": "json",
+        "mergeContext": "",
+        "mustacheAltTags": false,
+        "outputProperties": [],
+        "queue": "none",
+        "x": 1270,
+        "y": 300,
         "wires": [
             []
         ]
@@ -23453,7 +23337,7 @@
         "z": "4c110565.89018c",
         "g": "a886b72e2c3d2cda",
         "name": "Sw portail on",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "switch",
@@ -23461,7 +23345,7 @@
         "areaId": [],
         "deviceId": [],
         "entityId": [
-            "switch.zigbee_portail_l1"
+            "switch.inter_portail_l1"
         ],
         "data": "",
         "dataType": "json",
@@ -23483,7 +23367,7 @@
         "z": "4c110565.89018c",
         "g": "a886b72e2c3d2cda",
         "name": "Bool portail off",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "input_boolean",
@@ -23598,7 +23482,7 @@
         "type": "api-call-service",
         "z": "4c110565.89018c",
         "name": "Sw portail off",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "switch",
@@ -23606,7 +23490,7 @@
         "areaId": [],
         "deviceId": [],
         "entityId": [
-            "switch.zigbee_portail_l1"
+            "switch.inter_portail_l1"
         ],
         "data": "",
         "dataType": "json",
@@ -24055,7 +23939,7 @@
         "z": "4c110565.89018c",
         "g": "a886b72e2c3d2cda",
         "name": "Bool portail",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 4,
         "exposeToHomeAssistant": false,
         "haConfig": [
