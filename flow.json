@@ -288,6 +288,9 @@
                     },
                     {
                         "id": "89d99519.bceb78"
+                    },
+                    {
+                        "id": "c21c5d10.36212"
                     }
                 ]
             }
@@ -507,10 +510,8 @@
             "9189fa3.ccee608",
             "b1df8b44.c7d148"
         ],
-        "x": 594,
-        "y": 519,
-        "w": 212,
-        "h": 122
+        "x": 634,
+        "y": 279
     },
     {
         "id": "c6abcca2.0502d",
@@ -546,7 +547,9 @@
             "207f6227ea98a627"
         ],
         "x": 14,
-        "y": 19
+        "y": 19,
+        "w": 752,
+        "h": 522
     },
     {
         "id": "9252146b.03fc08",
@@ -566,7 +569,9 @@
             "4ec2d4346ab03bf2"
         ],
         "x": 794,
-        "y": 219
+        "y": 219,
+        "w": 572,
+        "h": 122
     },
     {
         "id": "5543a07b.da5c6",
@@ -595,7 +600,9 @@
             "ddd76ccf.e35ee"
         ],
         "x": 1034,
-        "y": 479
+        "y": 479,
+        "w": 992,
+        "h": 289.5
     },
     {
         "id": "65dad809.9aa608",
@@ -628,7 +635,9 @@
             "49988c0962f264d7"
         ],
         "x": 794,
-        "y": 559
+        "y": 559,
+        "w": 912,
+        "h": 382
     },
     {
         "id": "a0b00255.fbed9",
@@ -647,7 +656,9 @@
             "29e57792.c46908"
         ],
         "x": 1214,
-        "y": 399
+        "y": 399,
+        "w": 312,
+        "h": 122
     },
     {
         "id": "626f2fe9.095fe",
@@ -724,7 +735,9 @@
             "20ca9bd58fcb5b3e"
         ],
         "x": -6,
-        "y": 19
+        "y": 19,
+        "w": 1012,
+        "h": 942
     },
     {
         "id": "5b43065d.519348",
@@ -746,7 +759,9 @@
             "3e994ad5.5aed86"
         ],
         "x": 1034,
-        "y": -1
+        "y": -1,
+        "w": 782,
+        "h": 142
     },
     {
         "id": "5531669a.697438",
@@ -766,7 +781,6 @@
             "fae87fcb.5a66",
             "28e60c5b.680884",
             "c07fac25.22edc",
-            "5ab8b46f.6c582c",
             "6e46c151.a24bf",
             "a413b73c.9bc8b8",
             "9c22adc2.4661d",
@@ -779,7 +793,8 @@
             "1af16578.f5323b",
             "c744af9a.85d0e",
             "25b5d131.4b44ae",
-            "8dd51851.82fdf8"
+            "8dd51851.82fdf8",
+            "5ab8b46f.6c582c"
         ],
         "x": 14,
         "y": 19,
@@ -806,7 +821,9 @@
             "3c1128c0.26fa18"
         ],
         "x": 1214,
-        "y": 19
+        "y": 19,
+        "w": 812,
+        "h": 202
     },
     {
         "id": "f894ff9b.c4edc",
@@ -837,7 +854,9 @@
             "56b0fb48.a33b14"
         ],
         "x": 1034,
-        "y": 159
+        "y": 159,
+        "w": 1012,
+        "h": 289.5
     },
     {
         "id": "9afb718d.493d",
@@ -925,7 +944,9 @@
             "c9218987.519048"
         ],
         "x": 1214,
-        "y": 239
+        "y": 239,
+        "w": 592,
+        "h": 142
     },
     {
         "id": "5ea4b337.ab2bcc",
@@ -975,7 +996,9 @@
             "dfe297eb.4c59e8"
         ],
         "x": 1394,
-        "y": 19
+        "y": 19,
+        "w": 532,
+        "h": 189.5
     },
     {
         "id": "4a69ca19.2da874",
@@ -999,7 +1022,9 @@
             "b72bb6a6.9eb048"
         ],
         "x": 14,
-        "y": 559
+        "y": 559,
+        "w": 752,
+        "h": 202
     },
     {
         "id": "ec77e8f6.b62408",
@@ -1051,7 +1076,9 @@
             "a1d56fc2.e671f"
         ],
         "x": 14,
-        "y": 19
+        "y": 19,
+        "w": 922,
+        "h": 262
     },
     {
         "id": "6177905c.1d86",
@@ -1088,7 +1115,9 @@
             "459d3155.f0f08"
         ],
         "x": 14,
-        "y": 299
+        "y": 299,
+        "w": 502,
+        "h": 442
     },
     {
         "id": "2b3a788f.9c40d8",
@@ -1126,7 +1155,9 @@
             "4021fdef.2dc5d4"
         ],
         "x": 534,
-        "y": 299
+        "y": 299,
+        "w": 1202,
+        "h": 282
     },
     {
         "id": "12bd6589.118aba",
@@ -1146,7 +1177,9 @@
             "bf79dbd5.609718"
         ],
         "x": 534,
-        "y": 599
+        "y": 599,
+        "w": 482,
+        "h": 103
     },
     {
         "id": "d0789cc6.3bfb8",
@@ -1166,7 +1199,9 @@
             "b5b88804.3ba0b8"
         ],
         "x": 1054,
-        "y": 599
+        "y": 599,
+        "w": 462,
+        "h": 82
     },
     {
         "id": "6e05e79b.e13118",
@@ -1185,7 +1220,9 @@
             "dbc6f0c.f2db81"
         ],
         "x": 534,
-        "y": 719
+        "y": 719,
+        "w": 592,
+        "h": 122
     },
     {
         "id": "449a1278.f6048c",
@@ -1217,7 +1254,9 @@
             "dd7d60dd.faa3"
         ],
         "x": 14,
-        "y": 859
+        "y": 859,
+        "w": 1192,
+        "h": 302
     },
     {
         "id": "ece9d4bb.8ea598",
@@ -1293,7 +1332,9 @@
             "e888cdb5.664d7"
         ],
         "x": 14,
-        "y": 1179
+        "y": 1179,
+        "w": 1832,
+        "h": 482
     },
     {
         "id": "ecef5432.e60ef8",
@@ -1314,7 +1355,9 @@
             "e9da4b4c.c20068"
         ],
         "x": 874,
-        "y": 339
+        "y": 339,
+        "w": 1032,
+        "h": 82
     },
     {
         "id": "92cd7bed.1088b8",
@@ -1332,7 +1375,9 @@
             "c16b5b24.539fa8"
         ],
         "x": 874,
-        "y": 739
+        "y": 739,
+        "w": 932,
+        "h": 82
     },
     {
         "id": "5cda64bd.38daec",
@@ -1352,7 +1397,9 @@
             "4e1a58dc.5faf88"
         ],
         "x": 874,
-        "y": 59
+        "y": 59,
+        "w": 812,
+        "h": 82
     },
     {
         "id": "57b5e8a3.37d5e8",
@@ -1372,7 +1419,9 @@
             "7bedaa16.93eda4"
         ],
         "x": 874,
-        "y": 459
+        "y": 459,
+        "w": 1032,
+        "h": 82
     },
     {
         "id": "53f4a8db.b4d4",
@@ -1391,7 +1440,9 @@
             "a3064f17.e8a538"
         ],
         "x": 884,
-        "y": 1219
+        "y": 1219,
+        "w": 552,
+        "h": 82
     },
     {
         "id": "3ba17f01.1ad71",
@@ -1424,7 +1475,9 @@
             "18cbe457.1dfa6c"
         ],
         "x": 874,
-        "y": 179
+        "y": 179,
+        "w": 2572,
+        "h": 122
     },
     {
         "id": "286dba59.7ed416",
@@ -1451,7 +1504,9 @@
             "10f56b1e.f606e5"
         ],
         "x": 874,
-        "y": 839
+        "y": 839,
+        "w": 872,
+        "h": 362
     },
     {
         "id": "1fa64f61.9df3e1",
@@ -1477,7 +1532,9 @@
             "10057575.e300cb"
         ],
         "x": 874,
-        "y": 559
+        "y": 559,
+        "w": 1512,
+        "h": 162
     },
     {
         "id": "c009a51c.e26758",
@@ -1494,7 +1551,9 @@
             "f8ef8c71.b1114"
         ],
         "x": 1164,
-        "y": 719
+        "y": 719,
+        "w": 442,
+        "h": 122
     },
     {
         "id": "8ecdd734.879d78",
@@ -1521,7 +1580,9 @@
             "564c8b8.2d69374"
         ],
         "x": 794,
-        "y": 359
+        "y": 359,
+        "w": 1012,
+        "h": 182
     },
     {
         "id": "319c7d7d.cd7122",
@@ -1540,7 +1601,9 @@
             "81bb9d24.9941e"
         ],
         "x": 1214,
-        "y": 539
+        "y": 539,
+        "w": 572,
+        "h": 82
     },
     {
         "id": "3deb6699.aaf26a",
@@ -1570,7 +1633,9 @@
             "2fb540db.2c9ce"
         ],
         "x": 954,
-        "y": 19
+        "y": 19,
+        "w": 882,
+        "h": 262
     },
     {
         "id": "4d74fffb.c8d92",
@@ -1605,7 +1670,9 @@
             "2eeaeb97.4a4134"
         ],
         "x": 14,
-        "y": 19
+        "y": 19,
+        "w": 892,
+        "h": 442
     },
     {
         "id": "7cb351c1.77e2f",
@@ -1628,7 +1695,9 @@
             "2fd4dd28.7d9492"
         ],
         "x": 14,
-        "y": 19
+        "y": 19,
+        "w": 772,
+        "h": 142
     },
     {
         "id": "b401b79a.2d5288",
@@ -1669,7 +1738,9 @@
             "20a761d1688fa15d"
         ],
         "x": 14,
-        "y": 179
+        "y": 179,
+        "w": 972,
+        "h": 402
     },
     {
         "id": "a873e43.347ec18",
@@ -1691,7 +1762,9 @@
             "67dfd50ac22e3071"
         ],
         "x": 814,
-        "y": 19
+        "y": 19,
+        "w": 552,
+        "h": 142
     },
     {
         "id": "a788e3d5.f7c9e",
@@ -1714,7 +1787,9 @@
             "a7eb8d3a.cb258"
         ],
         "x": 1014,
-        "y": 179
+        "y": 179,
+        "w": 932,
+        "h": 82
     },
     {
         "id": "de698d74.637d3",
@@ -1752,7 +1827,9 @@
             "40bd9aee.999974"
         ],
         "x": 14,
-        "y": 599
+        "y": 599,
+        "w": 572,
+        "h": 649.5
     },
     {
         "id": "f57f6f98.777c3",
@@ -1771,9 +1848,7 @@
             "eac29933.ad61e8"
         ],
         "x": 634,
-        "y": 39,
-        "w": 292,
-        "h": 182
+        "y": 39
     },
     {
         "id": "61c30ffd.1ff36",
@@ -1794,9 +1869,7 @@
             "2cd52b4ff0be2af0"
         ],
         "x": 14,
-        "y": 39,
-        "w": 472,
-        "h": 409.5
+        "y": 39
     },
     {
         "id": "760ad0d2.b9337",
@@ -1820,127 +1893,9 @@
             "bdc8335b.43c23"
         ],
         "x": 1034,
-        "y": 791.5
-    },
-    {
-        "id": "464fc13b.63fec",
-        "type": "group",
-        "z": "43631d17.597e84",
-        "name": "SONOFF",
-        "style": {
-            "label": true,
-            "stroke": "#000000",
-            "fill": "#ffffff",
-            "color": "#000000"
-        },
-        "nodes": [
-            "2beb6133.92c69e",
-            "10c538bd.770ac7",
-            "469ebb11.d79ac4",
-            "c541ed47.b125e",
-            "ac8fcaf3.a94438"
-        ],
-        "x": 14,
-        "y": 1659
-    },
-    {
-        "id": "d08ef2d8.faf3b",
-        "type": "group",
-        "z": "43631d17.597e84",
-        "name": "Last Activity register",
-        "style": {
-            "stroke": "#000000",
-            "fill": "#ffbfbf",
-            "label": true,
-            "color": "#000000"
-        },
-        "nodes": [
-            "ad724edb.1e3d8",
-            "6b24e4b4.e887ec",
-            "784c384.9c90ec8",
-            "7cdf8c21.825af4"
-        ],
-        "x": 894,
-        "y": 1799
-    },
-    {
-        "id": "463e907b.85864",
-        "type": "group",
-        "z": "43631d17.597e84",
-        "name": "Configuration",
-        "style": {
-            "stroke": "#000000",
-            "fill": "#e3f3d3",
-            "label": true,
-            "color": "#000000"
-        },
-        "nodes": [
-            "515722d8.1af0ac",
-            "daf55f9b.5ed7c"
-        ],
-        "x": 14,
-        "y": 1439
-    },
-    {
-        "id": "e5b6876c.b55a38",
-        "type": "group",
-        "z": "43631d17.597e84",
-        "name": "Battery Check",
-        "style": {
-            "label": true,
-            "stroke": "#000000",
-            "fill": "#ff7f7f",
-            "color": "#000000"
-        },
-        "nodes": [
-            "d241f14c.bc662",
-            "67ef464.0cb41b8",
-            "b8325086.891fb",
-            "ebf52b5d.6a5ce8",
-            "abed77f0.a85e68",
-            "7f4b7c7f.26b664"
-        ],
-        "x": 14,
-        "y": 2059
-    },
-    {
-        "id": "f6137ef1.2b644",
-        "type": "group",
-        "z": "43631d17.597e84",
-        "name": "Report",
-        "style": {
-            "stroke": "#000000",
-            "fill": "#ffffbf",
-            "label": true,
-            "color": "#000000"
-        },
-        "nodes": [
-            "92cf5041.effb8",
-            "1a9956fd.6ffaa9",
-            "496cd6f3.a8a508"
-        ],
-        "x": 14,
-        "y": 1559
-    },
-    {
-        "id": "2489fa6d.d503d6",
-        "type": "group",
-        "z": "43631d17.597e84",
-        "name": "BLUETOOTH / Nut",
-        "style": {
-            "stroke": "#000000",
-            "fill": "#7fb7df",
-            "label": true,
-            "color": "#000000"
-        },
-        "nodes": [
-            "50a5d2f9.3015fc",
-            "581cd659.096cb8",
-            "c42a7999.62c868",
-            "492429aa.dc6c58"
-        ],
-        "x": 14,
-        "y": 1879
+        "y": 791.5,
+        "w": 952,
+        "h": 149.5
     },
     {
         "id": "61f68869.5ef4c8",
@@ -2038,7 +1993,9 @@
             "55f1e1b5bba447fa"
         ],
         "x": 34,
-        "y": 1059
+        "y": 1059,
+        "w": 1232,
+        "h": 382
     },
     {
         "id": "e6854997.1052a8",
@@ -2060,7 +2017,9 @@
             "0633467d1d30649b"
         ],
         "x": 794,
-        "y": 19
+        "y": 19,
+        "w": 572,
+        "h": 182
     },
     {
         "id": "98e748f4598d0b92",
@@ -2083,7 +2042,9 @@
             "6aefb37fe32bd79e"
         ],
         "x": 34,
-        "y": 1859
+        "y": 1859,
+        "w": 972,
+        "h": 122
     },
     {
         "id": "a37d6622.935938",
@@ -2159,7 +2120,9 @@
             "41ea3534f0054ea0"
         ],
         "x": 1034,
-        "y": 959
+        "y": 959,
+        "w": 932,
+        "h": 202
     },
     {
         "id": "de9a5bfb0704e2ae",
@@ -2175,7 +2138,9 @@
             "4f582706fe4b3efe"
         ],
         "x": 24,
-        "y": 979
+        "y": 979,
+        "w": 542,
+        "h": 82
     },
     {
         "id": "637fbef2c6f5e0a5",
@@ -2191,7 +2156,9 @@
             "ba16cf1cc5a537a4"
         ],
         "x": 1374,
-        "y": 19
+        "y": 19,
+        "w": 512,
+        "h": 82
     },
     {
         "id": "cd39ecf3.69ae3",
@@ -2219,7 +2186,9 @@
             "11c9c8fc154dcbb8"
         ],
         "x": 14,
-        "y": 779
+        "y": 779,
+        "w": 752,
+        "h": 242
     },
     {
         "id": "a4d10e3019b9b0f6",
@@ -2240,7 +2209,9 @@
             "99c8946ef341c73e"
         ],
         "x": 14,
-        "y": 579
+        "y": 579,
+        "w": 592,
+        "h": 222
     },
     {
         "id": "ec989bf1829ff60d",
@@ -2268,7 +2239,9 @@
             "9def0d26596b36bf"
         ],
         "x": 14,
-        "y": 39
+        "y": 39,
+        "w": 692,
+        "h": 422
     },
     {
         "id": "4fc89c93f3f2dd2d",
@@ -2288,7 +2261,9 @@
             "30308f742db3f165"
         ],
         "x": 14,
-        "y": 479
+        "y": 479,
+        "w": 932,
+        "h": 82
     },
     {
         "id": "ec122d7706b9e41c",
@@ -2310,7 +2285,9 @@
             "6804063ea0604dc8"
         ],
         "x": 14,
-        "y": 1999
+        "y": 1999,
+        "w": 572,
+        "h": 142
     },
     {
         "id": "d2c4d43f63530996",
@@ -2370,7 +2347,9 @@
             "9998c504179b8df2"
         ],
         "x": 34,
-        "y": 67
+        "y": 67,
+        "w": 1312,
+        "h": 462
     },
     {
         "id": "67fc0d9319bad7b9",
@@ -2393,7 +2372,9 @@
             "11d2e476c18eb38d"
         ],
         "x": 34,
-        "y": 579
+        "y": 579,
+        "w": 972,
+        "h": 122
     },
     {
         "id": "64d017b7402143d1",
@@ -2415,7 +2396,9 @@
             "6b68626e2a3ead1d"
         ],
         "x": 34,
-        "y": 719
+        "y": 719,
+        "w": 572,
+        "h": 142
     },
     {
         "id": "cb3057f3e5080ce3",
@@ -2499,7 +2482,9 @@
             "ec945dab9b6ba07b"
         ],
         "x": 14,
-        "y": 19
+        "y": 19,
+        "w": 1392,
+        "h": 302
     },
     {
         "id": "9105dff9c696bb0b",
@@ -2543,7 +2528,9 @@
             "7fc668e7a75e2651"
         ],
         "x": 14,
-        "y": 339
+        "y": 339,
+        "w": 1392,
+        "h": 422
     },
     {
         "id": "fb930c5a15eda4b7",
@@ -2647,7 +2634,9 @@
             "c5eb0710d25f5545"
         ],
         "x": 1174,
-        "y": 719
+        "y": 719,
+        "w": 932,
+        "h": 82
     },
     {
         "id": "bdbdf04ba46f69a3",
@@ -2675,34 +2664,6 @@
         "keyname": "",
         "caname": "",
         "verifyservercert": false
-    },
-    {
-        "id": "5bb4a1c1.27662",
-        "type": "mqtt-broker",
-        "name": "Cedalo",
-        "broker": "192.168.100.16",
-        "port": "1883",
-        "clientid": "",
-        "autoConnect": true,
-        "usetls": false,
-        "compatmode": false,
-        "protocolVersion": "4",
-        "keepalive": "60",
-        "cleansession": true,
-        "birthTopic": "",
-        "birthQos": "0",
-        "birthPayload": "",
-        "birthMsg": {},
-        "closeTopic": "",
-        "closeQos": "0",
-        "closePayload": "",
-        "closeMsg": {},
-        "willTopic": "",
-        "willQos": "0",
-        "willPayload": "",
-        "willMsg": {},
-        "userProps": "",
-        "sessionExpiry": ""
     },
     {
         "id": "2297c927.8c4f56",
@@ -2861,28 +2822,6 @@
         "tls": "cc0c4690.5682a8",
         "usetls": false,
         "base_topic": "zigbee2mqtt"
-    },
-    {
-        "id": "74ee819e.f5e25",
-        "type": "server",
-        "name": "Home Assistant",
-        "version": 4,
-        "addon": false,
-        "rejectUnauthorizedCerts": false,
-        "ha_boolean": "y|yes|true|on|home|open",
-        "connectionDelay": true,
-        "cacheJson": true,
-        "heartbeat": false,
-        "heartbeatInterval": "30",
-        "areaSelector": "friendlyName",
-        "deviceSelector": "friendlyName",
-        "entitySelector": "friendlyName",
-        "statusSeparator": "at: ",
-        "statusYear": "hidden",
-        "statusMonth": "short",
-        "statusDay": "numeric",
-        "statusHourCycle": "h23",
-        "statusTimeFormat": "h:m"
     },
     {
         "id": "acc87831.f8a8a8",
@@ -3072,7 +3011,12 @@
         "topic": "Salon/Awtrix_salon/basics",
         "qos": "",
         "retain": "",
-        "broker": "5bb4a1c1.27662",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "6ab4d33316cf218b",
         "x": 470,
         "y": 120,
         "wires": []
@@ -3090,6 +3034,8 @@
         "persist": false,
         "proxy": "",
         "authType": "",
+        "senderr": false,
+        "headers": [],
         "x": 530,
         "y": 180,
         "wires": [
@@ -3106,6 +3052,7 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
+        "libs": [],
         "x": 350,
         "y": 180,
         "wires": [
@@ -3742,7 +3689,7 @@
         "userProps": "",
         "correl": "",
         "expiry": "",
-        "broker": "5bb4a1c1.27662",
+        "broker": "6ab4d33316cf218b",
         "x": 490,
         "y": 20,
         "wires": []
@@ -3825,7 +3772,12 @@
         "topic": "Salon/Awtrix_salon/basics",
         "qos": "",
         "retain": "",
-        "broker": "5bb4a1c1.27662",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "6ab4d33316cf218b",
         "x": 330,
         "y": 220,
         "wires": []
@@ -4176,7 +4128,12 @@
         "topic": "",
         "qos": "",
         "retain": "",
-        "broker": "5bb4a1c1.27662",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "6ab4d33316cf218b",
         "x": 1710,
         "y": 420,
         "wires": []
@@ -6147,7 +6104,7 @@
         "z": "711f44dc.b8379c",
         "g": "5cda64bd.38daec",
         "name": "html5",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "notify",
@@ -6175,7 +6132,7 @@
         "z": "711f44dc.b8379c",
         "g": "ecef5432.e60ef8",
         "name": "Home Assistant ",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "notify",
@@ -6203,7 +6160,7 @@
         "z": "711f44dc.b8379c",
         "g": "3ba17f01.1ad71",
         "name": "Media Player : ON",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "media_player",
@@ -6233,7 +6190,7 @@
         "z": "711f44dc.b8379c",
         "g": "3ba17f01.1ad71",
         "name": "Set volume",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": true,
         "domain": "media_player",
@@ -6263,7 +6220,7 @@
         "z": "711f44dc.b8379c",
         "g": "3ba17f01.1ad71",
         "name": "Play TTS",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "tts",
@@ -6293,7 +6250,7 @@
         "z": "711f44dc.b8379c",
         "g": "3ba17f01.1ad71",
         "name": "Reset volume",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": true,
         "domain": "media_player",
@@ -6323,7 +6280,7 @@
         "z": "711f44dc.b8379c",
         "g": "3ba17f01.1ad71",
         "name": "Media Player : OFF",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "media_player",
@@ -6353,7 +6310,7 @@
         "z": "711f44dc.b8379c",
         "g": "3ba17f01.1ad71",
         "name": "Get Current Volume",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 3,
         "outputs": 1,
         "halt_if": "",
@@ -6376,6 +6333,8 @@
                 "valueType": "entity"
             }
         ],
+        "for": "",
+        "forType": "num",
         "x": 1960,
         "y": 260,
         "wires": [
@@ -6390,7 +6349,7 @@
         "z": "711f44dc.b8379c",
         "g": "3ba17f01.1ad71",
         "name": "Get State",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 3,
         "outputs": 1,
         "halt_if": "",
@@ -6413,6 +6372,8 @@
                 "valueType": "entity"
             }
         ],
+        "for": "",
+        "forType": "num",
         "x": 1260,
         "y": 260,
         "wires": [
@@ -6427,7 +6388,7 @@
         "z": "711f44dc.b8379c",
         "g": "3ba17f01.1ad71",
         "name": "Get State",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 3,
         "outputs": 2,
         "halt_if": "playing",
@@ -6450,6 +6411,8 @@
                 "valueType": "entity"
             }
         ],
+        "for": "",
+        "forType": "num",
         "x": 2840,
         "y": 260,
         "wires": [
@@ -6549,7 +6512,7 @@
         "topic": "Garage/Nextion_2.4_Intell/idx",
         "qos": "1",
         "datatype": "auto",
-        "broker": "5bb4a1c1.27662",
+        "broker": "6ab4d33316cf218b",
         "nl": false,
         "rap": false,
         "inputs": 0,
@@ -6985,6 +6948,7 @@
         "z": "f1a202e8.6987c",
         "g": "22d3e8bf.c3c6f8",
         "name": "Soir",
+        "mode": "link",
         "links": [
             "d466e8f1.19d358"
         ],
@@ -7098,11 +7062,14 @@
         "once": false,
         "onceDelay": 0.1,
         "topic": "",
+        "payload": "",
         "payloadType": "date",
         "x": 440,
         "y": 200,
         "wires": [
-            []
+            [
+                "ff460633.36f108"
+            ]
         ]
     },
     {
@@ -7803,7 +7770,7 @@
         "z": "f1a202e8.6987c",
         "g": "5531669a.697438",
         "name": "Alarm",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "alarm_control_panel",
@@ -7830,7 +7797,7 @@
         "type": "api-call-service",
         "z": "f1a202e8.6987c",
         "name": "Descendre Volets",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "cover",
@@ -7862,7 +7829,7 @@
         "type": "api-call-service",
         "z": "f1a202e8.6987c",
         "name": "Descendre Volets",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "cover",
@@ -7894,7 +7861,7 @@
         "type": "api-call-service",
         "z": "f1a202e8.6987c",
         "name": "Descendre Volets",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "cover",
@@ -7925,7 +7892,7 @@
         "z": "f1a202e8.6987c",
         "g": "5531669a.697438",
         "name": "Mode Jour",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "input_select",
@@ -7953,7 +7920,7 @@
         "z": "f1a202e8.6987c",
         "g": "22d3e8bf.c3c6f8",
         "name": "Descendre Volets",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "cover",
@@ -7986,7 +7953,7 @@
         "z": "f1a202e8.6987c",
         "g": "22d3e8bf.c3c6f8",
         "name": "Buffet",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "light",
@@ -8013,16 +7980,14 @@
         "type": "api-call-service",
         "z": "f1a202e8.6987c",
         "name": "Stop Nesthub",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "media_player",
         "service": "media_stop",
         "areaId": [],
         "deviceId": [],
-        "entityId": [
-            "media_player.nesthub"
-        ],
+        "entityId": [],
         "data": "",
         "dataType": "json",
         "mergeContext": "",
@@ -8041,7 +8006,7 @@
         "z": "f1a202e8.6987c",
         "g": "5531669a.697438",
         "name": "Off Reveil",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "input_boolean",
@@ -8069,7 +8034,7 @@
         "z": "f1a202e8.6987c",
         "g": "5531669a.697438",
         "name": "On Reveil",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "input_boolean",
@@ -8097,7 +8062,7 @@
         "z": "f1a202e8.6987c",
         "g": "ec77e8f6.b62408",
         "name": "Monter Volets",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "cover",
@@ -8127,7 +8092,7 @@
         "z": "f1a202e8.6987c",
         "g": "5531669a.697438",
         "name": "Level 20%",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "media_player",
@@ -8157,7 +8122,7 @@
         "z": "f1a202e8.6987c",
         "g": "5531669a.697438",
         "name": "Spotify Jona",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "spotcast",
@@ -8185,16 +8150,14 @@
         "z": "f1a202e8.6987c",
         "g": "5531669a.697438",
         "name": "Allume chaudière",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "switch",
         "service": "turn_on",
         "areaId": [],
         "deviceId": [],
-        "entityId": [
-            "input_boolean.chaudiere_on_off"
-        ],
+        "entityId": [],
         "data": "",
         "dataType": "json",
         "mergeContext": "",
@@ -8212,7 +8175,7 @@
         "type": "api-call-service",
         "z": "f1a202e8.6987c",
         "name": "Allume desambuage",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "switch",
@@ -8242,7 +8205,7 @@
         "type": "api-call-service",
         "z": "f1a202e8.6987c",
         "name": "Eteint desambuage",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "switch",
@@ -8272,7 +8235,7 @@
         "z": "f1a202e8.6987c",
         "g": "22d3e8bf.c3c6f8",
         "name": "Telephone",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "switch",
@@ -8299,7 +8262,7 @@
         "type": "api-call-service",
         "z": "f1a202e8.6987c",
         "name": "Monter Volets",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "cover",
@@ -8332,7 +8295,7 @@
         "z": "f1a202e8.6987c",
         "g": "5531669a.697438",
         "name": "Reveil On?",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 3,
         "outputs": 2,
         "halt_if": "on",
@@ -8372,7 +8335,7 @@
         "z": "f1a202e8.6987c",
         "g": "5531669a.697438",
         "name": "Mode vacances off?",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 3,
         "outputs": 2,
         "halt_if": "Vacances",
@@ -8413,7 +8376,7 @@
         "type": "api-current-state",
         "z": "f1a202e8.6987c",
         "name": "Mode vacances on?",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 3,
         "outputs": 2,
         "halt_if": "Vacances",
@@ -8436,6 +8399,8 @@
                 "valueType": "entity"
             }
         ],
+        "for": "",
+        "forType": "num",
         "x": 280,
         "y": 1020,
         "wires": [
@@ -8450,7 +8415,7 @@
         "type": "api-current-state",
         "z": "f1a202e8.6987c",
         "name": "humidity2",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 3,
         "outputs": 1,
         "halt_if": "",
@@ -8473,6 +8438,8 @@
                 "valueType": "entity"
             }
         ],
+        "for": "",
+        "forType": "num",
         "x": 500,
         "y": 1300,
         "wires": [
@@ -8482,76 +8449,12 @@
         ]
     },
     {
-        "id": "5ab8b46f.6c582c",
-        "type": "server-state-changed",
-        "z": "f1a202e8.6987c",
-        "g": "5531669a.697438",
-        "name": "Wake up time input",
-        "server": "74ee819e.f5e25",
-        "version": 4,
-        "exposeToHomeAssistant": false,
-        "haConfig": [
-            {
-                "property": "name",
-                "value": ""
-            },
-            {
-                "property": "icon",
-                "value": ""
-            }
-        ],
-        "entityidfilter": "sensor.alarm_clock_time_long",
-        "entityidfiltertype": "substring",
-        "outputinitially": true,
-        "state_type": "str",
-        "haltifstate": "",
-        "halt_if_type": "str",
-        "halt_if_compare": "is",
-        "outputs": 1,
-        "output_only_on_state_change": false,
-        "for": "",
-        "forType": "num",
-        "forUnits": "minutes",
-        "ignorePrevStateNull": false,
-        "ignorePrevStateUnknown": false,
-        "ignorePrevStateUnavailable": false,
-        "ignoreCurrentStateUnknown": false,
-        "ignoreCurrentStateUnavailable": false,
-        "outputProperties": [
-            {
-                "property": "payload",
-                "propertyType": "msg",
-                "value": "",
-                "valueType": "entityState"
-            },
-            {
-                "property": "data",
-                "propertyType": "msg",
-                "value": "",
-                "valueType": "eventData"
-            },
-            {
-                "property": "topic",
-                "propertyType": "msg",
-                "value": "",
-                "valueType": "triggerId"
-            }
-        ],
-        "x": 150,
-        "y": 200,
-        "wires": [
-            [
-                "ff460633.36f108"
-            ]
-        ]
-    },
-    {
         "id": "11d9ba56.d644a6",
         "type": "server-state-changed",
         "z": "f1a202e8.6987c",
         "g": "22d3e8bf.c3c6f8",
         "name": "Mode Ambiance",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 4,
         "exposeToHomeAssistant": false,
         "haConfig": [
@@ -8613,8 +8516,9 @@
         "id": "edc583cf.5382f",
         "type": "server-state-changed",
         "z": "f1a202e8.6987c",
+        "d": true,
         "name": "Humidité",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 4,
         "exposeToHomeAssistant": false,
         "haConfig": [
@@ -8677,7 +8581,7 @@
         "type": "server-state-changed",
         "z": "f1a202e8.6987c",
         "name": "NsPanel R2",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 4,
         "exposeToHomeAssistant": false,
         "haConfig": [
@@ -8690,7 +8594,7 @@
                 "value": ""
             }
         ],
-        "entityidfilter": "switch.nspanel_dev_relay_2",
+        "entityidfilter": "alarm_control_panel.alarmo",
         "entityidfiltertype": "exact",
         "outputinitially": false,
         "state_type": "str",
@@ -8775,6 +8679,68 @@
         "x": 1190,
         "y": 460,
         "wires": []
+    },
+    {
+        "id": "5ab8b46f.6c582c",
+        "type": "server-state-changed",
+        "z": "f1a202e8.6987c",
+        "g": "5531669a.697438",
+        "name": "Wake up time input",
+        "server": "5261c37d2408eef8",
+        "version": 4,
+        "exposeToHomeAssistant": false,
+        "haConfig": [
+            {
+                "property": "name",
+                "value": ""
+            },
+            {
+                "property": "icon",
+                "value": ""
+            }
+        ],
+        "entityidfilter": "sensor.alarm_clock_time_long",
+        "entityidfiltertype": "substring",
+        "outputinitially": true,
+        "state_type": "str",
+        "haltifstate": "",
+        "halt_if_type": "str",
+        "halt_if_compare": "is",
+        "outputs": 1,
+        "output_only_on_state_change": false,
+        "for": "",
+        "forType": "num",
+        "forUnits": "minutes",
+        "ignorePrevStateNull": false,
+        "ignorePrevStateUnknown": false,
+        "ignorePrevStateUnavailable": false,
+        "ignoreCurrentStateUnknown": false,
+        "ignoreCurrentStateUnavailable": false,
+        "outputProperties": [
+            {
+                "property": "payload",
+                "propertyType": "msg",
+                "value": "",
+                "valueType": "entityState"
+            },
+            {
+                "property": "data",
+                "propertyType": "msg",
+                "value": "",
+                "valueType": "eventData"
+            },
+            {
+                "property": "topic",
+                "propertyType": "msg",
+                "value": "",
+                "valueType": "triggerId"
+            }
+        ],
+        "x": 150,
+        "y": 200,
+        "wires": [
+            []
+        ]
     },
     {
         "id": "727ba882.fab928",
@@ -8975,7 +8941,7 @@
         "topic": "Camera/#",
         "qos": "2",
         "datatype": "auto",
-        "broker": "5bb4a1c1.27662",
+        "broker": "6ab4d33316cf218b",
         "nl": false,
         "rap": false,
         "inputs": 0,
@@ -9180,7 +9146,7 @@
         "userProps": "",
         "correl": "",
         "expiry": "",
-        "broker": "5bb4a1c1.27662",
+        "broker": "6ab4d33316cf218b",
         "x": 790,
         "y": 60,
         "wires": []
@@ -9194,7 +9160,7 @@
         "topic": "alarmo/event",
         "qos": "2",
         "datatype": "auto",
-        "broker": "5bb4a1c1.27662",
+        "broker": "6ab4d33316cf218b",
         "nl": false,
         "rap": true,
         "rh": 0,
@@ -9588,11 +9554,13 @@
         "d": true,
         "g": "9afb718d.493d",
         "name": "Detect Gar",
-        "server": "feeb323e.3e07e",
+        "server": "e17f99a94c99cbb8",
         "friendly_name": "",
-        "device_id": "0x00158d0002757dca",
-        "state": "smoke",
+        "device_id": [],
+        "state": null,
         "outputAtStartup": false,
+        "filterChanges": true,
+        "enableMultiple": false,
         "x": 1080,
         "y": 80,
         "wires": [
@@ -9607,7 +9575,7 @@
         "z": "6abc28ed.f003a8",
         "g": "5ea4b337.ab2bcc",
         "name": "Snapshot",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": true,
         "domain": "camera",
@@ -9635,7 +9603,7 @@
         "z": "6abc28ed.f003a8",
         "g": "bec07b1174c81ee8",
         "name": "GW Off",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "light",
@@ -9663,16 +9631,14 @@
         "z": "6abc28ed.f003a8",
         "g": "b469cb58f322bf8d",
         "name": "GW On RED",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "light",
         "service": "turn_on",
         "areaId": [],
         "deviceId": [],
-        "entityId": [
-            "light.gateway_light_04cf8c913a93"
-        ],
+        "entityId": [],
         "data": "{\"rgb_color\":[205,24,24]}",
         "dataType": "json",
         "mergeContext": "",
@@ -9693,7 +9659,7 @@
         "z": "6abc28ed.f003a8",
         "g": "bdbdf04ba46f69a3",
         "name": "Trappe",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "cover",
@@ -9721,7 +9687,7 @@
         "z": "6abc28ed.f003a8",
         "g": "5ea4b337.ab2bcc",
         "name": "Armée?",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 3,
         "outputs": 2,
         "halt_if": "disarmed",
@@ -9744,6 +9710,8 @@
                 "valueType": "entity"
             }
         ],
+        "for": "",
+        "forType": "num",
         "x": 1240,
         "y": 600,
         "wires": [
@@ -9759,7 +9727,7 @@
         "z": "6abc28ed.f003a8",
         "g": "e8fad96c304ee70f",
         "name": "Mode?",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 3,
         "outputs": 2,
         "halt_if": "Nuit",
@@ -9807,7 +9775,7 @@
         "z": "6abc28ed.f003a8",
         "g": "067203cde61e34b0",
         "name": "Statut",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 3,
         "outputs": 2,
         "halt_if": "triggered",
@@ -9854,7 +9822,7 @@
         "d": true,
         "g": "5ea4b337.ab2bcc",
         "name": "Cameras sensor",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 4,
         "exposeToHomeAssistant": false,
         "haConfig": [
@@ -9919,7 +9887,7 @@
         "z": "6abc28ed.f003a8",
         "g": "bdbdf04ba46f69a3",
         "name": "",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 1,
         "exposeToHomeAssistant": false,
         "haConfig": [
@@ -9933,7 +9901,7 @@
             }
         ],
         "tags": [
-            "31e4f6c0-ab5b-4b8e-953d-6f24d3e2f167"
+            "__ALL_TAGS__"
         ],
         "devices": [],
         "outputProperties": [
@@ -10189,8 +10157,8 @@
         "links": [
             "727ba882.fab928"
         ],
-        "x": 690,
-        "y": 800,
+        "x": 730,
+        "y": 560,
         "wires": [],
         "l": true
     },
@@ -10205,8 +10173,8 @@
             "d4862d6f5f1ef5a9",
             "829c81b0260784bc"
         ],
-        "x": 700,
-        "y": 560,
+        "x": 740,
+        "y": 320,
         "wires": [],
         "inputLabels": [
             "Alarm On"
@@ -10225,8 +10193,8 @@
             "a6b453d5e5be2e07",
             "196b01a3084a84ae"
         ],
-        "x": 700,
-        "y": 600,
+        "x": 740,
+        "y": 360,
         "wires": [],
         "inputLabels": [
             "Alarm On"
@@ -10296,8 +10264,8 @@
             "7d4d037c.178e3c",
             "8bf24650f1832383"
         ],
-        "x": 670,
-        "y": 760,
+        "x": 710,
+        "y": 520,
         "wires": [],
         "l": true
     },
@@ -10310,8 +10278,8 @@
         "links": [
             "925e406343ad82bc"
         ],
-        "x": 680,
-        "y": 680,
+        "x": 720,
+        "y": 440,
         "wires": [],
         "l": true
     },
@@ -10323,8 +10291,8 @@
         "links": [
             "d49be46c.bf2978"
         ],
-        "x": 660,
-        "y": 720,
+        "x": 700,
+        "y": 480,
         "wires": [],
         "l": true
     },
@@ -10389,8 +10357,8 @@
         "targetType": "msg",
         "statusVal": "",
         "statusType": "auto",
-        "x": 790,
-        "y": 320,
+        "x": 770,
+        "y": 240,
         "wires": []
     },
     {
@@ -11608,7 +11576,7 @@
         "userProps": "",
         "correl": "",
         "expiry": "",
-        "broker": "5bb4a1c1.27662",
+        "broker": "6ab4d33316cf218b",
         "x": 650,
         "y": 260,
         "wires": []
@@ -11650,7 +11618,12 @@
         "topic": "Maison/sonoff_basic/switch/sonoff_basic_relay/command",
         "qos": "1",
         "retain": "true",
-        "broker": "5bb4a1c1.27662",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "6ab4d33316cf218b",
         "x": 640,
         "y": 220,
         "wires": []
@@ -12045,7 +12018,7 @@
         "z": "65d53490.95139c",
         "g": "626f2fe9.095fe",
         "name": "Toggle Lit",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "light",
@@ -12101,7 +12074,7 @@
         "z": "65d53490.95139c",
         "g": "61f68869.5ef4c8",
         "name": "Light on",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "switch",
@@ -12129,7 +12102,7 @@
         "z": "65d53490.95139c",
         "g": "61f68869.5ef4c8",
         "name": "Light off",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "switch",
@@ -12157,7 +12130,7 @@
         "z": "65d53490.95139c",
         "g": "61f68869.5ef4c8",
         "name": "Ouvrir Garage Jon",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "cover",
@@ -12185,7 +12158,7 @@
         "z": "65d53490.95139c",
         "g": "61f68869.5ef4c8",
         "name": "Fermer  Garage Jon",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "cover",
@@ -12213,7 +12186,7 @@
         "z": "65d53490.95139c",
         "g": "61f68869.5ef4c8",
         "name": "Fermer Garage Maison",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "cover",
@@ -12241,7 +12214,7 @@
         "z": "65d53490.95139c",
         "g": "61f68869.5ef4c8",
         "name": "Ouvrir Garage Maison",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "cover",
@@ -12269,7 +12242,7 @@
         "z": "65d53490.95139c",
         "g": "61f68869.5ef4c8",
         "name": "Open/Close Garage Aliki",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "input_boolean",
@@ -12297,7 +12270,7 @@
         "z": "65d53490.95139c",
         "g": "626f2fe9.095fe",
         "name": "Spot Jardin",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "switch",
@@ -12325,7 +12298,7 @@
         "z": "65d53490.95139c",
         "g": "a37d6622.935938",
         "name": "Mode Soir",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "input_select",
@@ -12353,7 +12326,7 @@
         "z": "65d53490.95139c",
         "g": "a37d6622.935938",
         "name": "Mode Nuit",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "input_select",
@@ -12381,7 +12354,7 @@
         "z": "65d53490.95139c",
         "g": "a37d6622.935938",
         "name": "Mode Jour",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "input_select",
@@ -12438,7 +12411,7 @@
         "z": "65d53490.95139c",
         "g": "a37d6622.935938",
         "name": "Nextion Salon On",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "switch",
@@ -12496,7 +12469,7 @@
         "z": "65d53490.95139c",
         "g": "a37d6622.935938",
         "name": "Hue",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "light",
@@ -12527,7 +12500,7 @@
         "z": "65d53490.95139c",
         "g": "a37d6622.935938",
         "name": "Vintage",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "switch",
@@ -12555,7 +12528,7 @@
         "z": "65d53490.95139c",
         "g": "a37d6622.935938",
         "name": "spot on",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "light",
@@ -12585,7 +12558,7 @@
         "z": "65d53490.95139c",
         "g": "a37d6622.935938",
         "name": "spot off",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "light",
@@ -12613,7 +12586,7 @@
         "z": "65d53490.95139c",
         "g": "a37d6622.935938",
         "name": "Reset Chaudiere",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "input_boolean",
@@ -12643,7 +12616,7 @@
         "z": "65d53490.95139c",
         "g": "61f68869.5ef4c8",
         "name": "Temp serveur",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 3,
         "outputs": 1,
         "halt_if": "",
@@ -12666,6 +12639,8 @@
                 "valueType": "entity"
             }
         ],
+        "for": "",
+        "forType": "num",
         "x": 1140,
         "y": 960,
         "wires": [
@@ -12713,7 +12688,7 @@
         "z": "65d53490.95139c",
         "g": "a37d6622.935938",
         "name": "Mode Ambiance",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 3,
         "outputs": 1,
         "halt_if": "",
@@ -12736,6 +12711,8 @@
                 "valueType": "entity"
             }
         ],
+        "for": "",
+        "forType": "num",
         "x": 360,
         "y": 760,
         "wires": [
@@ -12750,7 +12727,7 @@
         "z": "65d53490.95139c",
         "g": "61f68869.5ef4c8",
         "name": "Statut Alarme",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 4,
         "exposeToHomeAssistant": false,
         "haConfig": [
@@ -13306,7 +13283,12 @@
         "topic": "Maison/light/Led-Lit/status/set",
         "qos": "",
         "retain": "",
-        "broker": "5bb4a1c1.27662",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "6ab4d33316cf218b",
         "x": 2150,
         "y": 40,
         "wires": []
@@ -13382,7 +13364,12 @@
         "topic": "YeeLight2MQTT/light/Chevet_Aliki/status/set",
         "qos": "",
         "retain": "",
-        "broker": "5bb4a1c1.27662",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "6ab4d33316cf218b",
         "x": 2210,
         "y": 160,
         "wires": []
@@ -13413,7 +13400,12 @@
         "topic": "Maison/light/Led-Lit/status/set",
         "qos": "",
         "retain": "",
-        "broker": "5bb4a1c1.27662",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "6ab4d33316cf218b",
         "x": 2150,
         "y": 100,
         "wires": []
@@ -13857,7 +13849,7 @@
         "userProps": "",
         "correl": "",
         "expiry": "",
-        "broker": "5bb4a1c1.27662",
+        "broker": "6ab4d33316cf218b",
         "x": 550,
         "y": 120,
         "wires": []
@@ -14101,7 +14093,7 @@
         "userProps": "",
         "correl": "",
         "expiry": "",
-        "broker": "5bb4a1c1.27662",
+        "broker": "6ab4d33316cf218b",
         "x": 1040,
         "y": 1120,
         "wires": []
@@ -14204,7 +14196,7 @@
         "userProps": "",
         "correl": "",
         "expiry": "",
-        "broker": "5bb4a1c1.27662",
+        "broker": "6ab4d33316cf218b",
         "x": 670,
         "y": 840,
         "wires": []
@@ -14814,7 +14806,7 @@
         "z": "8a56250a.f42758",
         "g": "c6abcca2.0502d",
         "name": "Miroir toggle",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "switch",
@@ -14842,7 +14834,7 @@
         "z": "8a56250a.f42758",
         "g": "c6abcca2.0502d",
         "name": "Spotify Off",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "media_player",
@@ -14870,7 +14862,7 @@
         "z": "8a56250a.f42758",
         "g": "c6abcca2.0502d",
         "name": "Spotify Aliki On",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "media_player",
@@ -14898,7 +14890,7 @@
         "z": "8a56250a.f42758",
         "g": "c6abcca2.0502d",
         "name": "Spotify Jona",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "spotcast",
@@ -14926,7 +14918,7 @@
         "z": "8a56250a.f42758",
         "g": "c6abcca2.0502d",
         "name": "Level",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "media_player",
@@ -14956,7 +14948,7 @@
         "z": "8a56250a.f42758",
         "g": "8eaaebb5.727948",
         "name": "Sapin Off",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "input_boolean",
@@ -15012,7 +15004,7 @@
         "z": "8a56250a.f42758",
         "g": "8ecdd734.879d78",
         "name": "Chevet Stelio",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "light",
@@ -15040,7 +15032,7 @@
         "z": "8a56250a.f42758",
         "g": "8ecdd734.879d78",
         "name": "Stop",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "media_player",
@@ -15068,7 +15060,7 @@
         "z": "8a56250a.f42758",
         "g": "e6854997.1052a8",
         "name": "Spot Cuis",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "switch",
@@ -15096,7 +15088,7 @@
         "z": "8a56250a.f42758",
         "g": "e6854997.1052a8",
         "name": "fermer gar jon",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "light",
@@ -15125,7 +15117,7 @@
         "z": "8a56250a.f42758",
         "g": "e6854997.1052a8",
         "name": "Toggle Tel",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "light",
@@ -15153,7 +15145,7 @@
         "z": "8a56250a.f42758",
         "g": "8ecdd734.879d78",
         "name": "berceuse",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "spotcast",
@@ -15209,7 +15201,7 @@
         "z": "8a56250a.f42758",
         "g": "65dad809.9aa608",
         "name": "Grenier",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "switch",
@@ -15237,7 +15229,7 @@
         "z": "8a56250a.f42758",
         "g": "65dad809.9aa608",
         "name": "Cave",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "switch",
@@ -15265,7 +15257,7 @@
         "z": "8a56250a.f42758",
         "g": "97bd8de5.cac92",
         "name": "Lampe_bureau ON",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "light",
@@ -15273,10 +15265,10 @@
         "areaId": [],
         "deviceId": [],
         "entityId": [
-            "light.boule",
+            "light.lampadaire_bureau",
             "light.led_bureau",
             "light.livingcolors_1",
-            "light.lampadaire_bureau",
+            "light.boule",
             "light.cadre",
             "light.synfonisk_back"
         ],
@@ -15300,7 +15292,7 @@
         "z": "8a56250a.f42758",
         "g": "97bd8de5.cac92",
         "name": "Lampe_bureau OFF",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "light",
@@ -15308,10 +15300,10 @@
         "areaId": [],
         "deviceId": [],
         "entityId": [
-            "light.boule",
+            "light.lampadaire_bureau",
             "light.led_bureau",
             "light.livingcolors_1",
-            "light.lampadaire_bureau",
+            "light.boule",
             "light.cadre",
             "light.synfonisk_back"
         ],
@@ -15335,7 +15327,7 @@
         "z": "8a56250a.f42758",
         "g": "97bd8de5.cac92",
         "name": "prise pc Off",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "switch",
@@ -15365,7 +15357,7 @@
         "z": "8a56250a.f42758",
         "g": "97bd8de5.cac92",
         "name": "prise pc On",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "switch",
@@ -15395,7 +15387,7 @@
         "z": "8a56250a.f42758",
         "g": "97bd8de5.cac92",
         "name": "Spotify Jona",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "spotcast",
@@ -15423,7 +15415,7 @@
         "z": "8a56250a.f42758",
         "g": "97bd8de5.cac92",
         "name": "Spotify Jona",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "spotcast",
@@ -15451,7 +15443,7 @@
         "z": "8a56250a.f42758",
         "g": "97bd8de5.cac92",
         "name": "Spot On",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "remote",
@@ -15477,7 +15469,7 @@
         "z": "8a56250a.f42758",
         "g": "97bd8de5.cac92",
         "name": "Spot Off",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "remote",
@@ -15503,7 +15495,7 @@
         "z": "8a56250a.f42758",
         "g": "cd39ecf3.69ae3",
         "name": "hue 4 on",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "light",
@@ -15533,7 +15525,7 @@
         "z": "8a56250a.f42758",
         "g": "cd39ecf3.69ae3",
         "name": "hue 4 off",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "light",
@@ -15561,7 +15553,7 @@
         "z": "8a56250a.f42758",
         "g": "97bd8de5.cac92",
         "name": "Volet Baissé",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "cover",
@@ -15591,7 +15583,7 @@
         "z": "8a56250a.f42758",
         "g": "97bd8de5.cac92",
         "name": "Volet Baissé",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "cover",
@@ -15658,7 +15650,7 @@
         "z": "8a56250a.f42758",
         "g": "cd39ecf3.69ae3",
         "name": "Mode",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 3,
         "outputs": 2,
         "halt_if": "Nuit",
@@ -15675,6 +15667,8 @@
                 "valueType": "str"
             }
         ],
+        "for": "",
+        "forType": "num",
         "x": 350,
         "y": 920,
         "wires": [
@@ -15690,7 +15684,7 @@
         "z": "8a56250a.f42758",
         "g": "8eaaebb5.727948",
         "name": "Sapin",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 4,
         "exposeToHomeAssistant": false,
         "haConfig": [
@@ -15754,7 +15748,7 @@
         "z": "8a56250a.f42758",
         "g": "cd39ecf3.69ae3",
         "name": "Bouton awtrix salon",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 4,
         "exposeToHomeAssistant": false,
         "haConfig": [
@@ -16516,7 +16510,7 @@
         "z": "5fe8574ef0d6675d",
         "g": "d2c4d43f63530996",
         "name": "Set T° Garage",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "climate",
@@ -16544,7 +16538,7 @@
         "z": "5fe8574ef0d6675d",
         "g": "d2c4d43f63530996",
         "name": "Set T° Cuisine",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "climate",
@@ -16572,7 +16566,7 @@
         "z": "5fe8574ef0d6675d",
         "g": "d2c4d43f63530996",
         "name": "Set T° Salon",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "climate",
@@ -16600,7 +16594,7 @@
         "z": "5fe8574ef0d6675d",
         "g": "d2c4d43f63530996",
         "name": "Set T° SDB",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "climate",
@@ -16628,7 +16622,7 @@
         "z": "5fe8574ef0d6675d",
         "g": "d2c4d43f63530996",
         "name": "Set T° Couloir",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "climate",
@@ -16656,7 +16650,7 @@
         "z": "5fe8574ef0d6675d",
         "g": "d2c4d43f63530996",
         "name": "Set T° Bureau",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "climate",
@@ -16684,7 +16678,7 @@
         "z": "5fe8574ef0d6675d",
         "g": "d2c4d43f63530996",
         "name": "Set T° ch stelio",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "climate",
@@ -16712,7 +16706,7 @@
         "z": "5fe8574ef0d6675d",
         "g": "67fc0d9319bad7b9",
         "name": "Bool reset chaud off",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "input_boolean",
@@ -16800,7 +16794,7 @@
         "z": "5fe8574ef0d6675d",
         "g": "64d017b7402143d1",
         "name": "Notif bouton",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "notify",
@@ -16826,7 +16820,7 @@
         "z": "5fe8574ef0d6675d",
         "g": "64d017b7402143d1",
         "name": "Relais On",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "switch",
@@ -16854,7 +16848,7 @@
         "z": "5fe8574ef0d6675d",
         "g": "d2c4d43f63530996",
         "name": "reset chaudiere",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "input_boolean",
@@ -16882,7 +16876,7 @@
         "z": "5fe8574ef0d6675d",
         "g": "d2c4d43f63530996",
         "name": "t° when OFF",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 3,
         "outputs": 1,
         "halt_if": "",
@@ -16905,6 +16899,8 @@
                 "valueType": "entity"
             }
         ],
+        "for": "",
+        "forType": "num",
         "x": 470,
         "y": 280,
         "wires": [
@@ -16919,7 +16915,7 @@
         "z": "5fe8574ef0d6675d",
         "g": "d2c4d43f63530996",
         "name": "t° when ON",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 3,
         "outputs": 1,
         "halt_if": "",
@@ -16942,6 +16938,8 @@
                 "valueType": "entity"
             }
         ],
+        "for": "",
+        "forType": "num",
         "x": 470,
         "y": 240,
         "wires": [
@@ -16956,7 +16954,7 @@
         "z": "5fe8574ef0d6675d",
         "g": "d2c4d43f63530996",
         "name": "t° when OFF",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 3,
         "outputs": 1,
         "halt_if": "",
@@ -16979,6 +16977,8 @@
                 "valueType": "entity"
             }
         ],
+        "for": "",
+        "forType": "num",
         "x": 470,
         "y": 360,
         "wires": [
@@ -16993,7 +16993,7 @@
         "z": "5fe8574ef0d6675d",
         "g": "d2c4d43f63530996",
         "name": "t° when ON",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 3,
         "outputs": 1,
         "halt_if": "",
@@ -17016,6 +17016,8 @@
                 "valueType": "entity"
             }
         ],
+        "for": "",
+        "forType": "num",
         "x": 470,
         "y": 320,
         "wires": [
@@ -17030,7 +17032,7 @@
         "z": "5fe8574ef0d6675d",
         "g": "d2c4d43f63530996",
         "name": "t° when OFF",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 3,
         "outputs": 1,
         "halt_if": "",
@@ -17053,6 +17055,8 @@
                 "valueType": "entity"
             }
         ],
+        "for": "",
+        "forType": "num",
         "x": 470,
         "y": 440,
         "wires": [
@@ -17072,7 +17076,7 @@
         "z": "5fe8574ef0d6675d",
         "g": "d2c4d43f63530996",
         "name": "t° when ON",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 3,
         "outputs": 1,
         "halt_if": "",
@@ -17095,6 +17099,8 @@
                 "valueType": "entity"
             }
         ],
+        "for": "",
+        "forType": "num",
         "x": 470,
         "y": 400,
         "wires": [
@@ -17114,7 +17120,7 @@
         "z": "5fe8574ef0d6675d",
         "g": "d2c4d43f63530996",
         "name": "Chauffage On ?",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 3,
         "outputs": 2,
         "halt_if": "on",
@@ -17137,6 +17143,8 @@
                 "valueType": "entity"
             }
         ],
+        "for": "",
+        "forType": "num",
         "x": 160,
         "y": 340,
         "wires": [
@@ -17154,7 +17162,7 @@
         "z": "5fe8574ef0d6675d",
         "g": "64d017b7402143d1",
         "name": "Action app",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 1,
         "event_type": "mobile_app_notification_action",
         "exposeToHomeAssistant": false,
@@ -17203,7 +17211,7 @@
         "z": "5fe8574ef0d6675d",
         "g": "67fc0d9319bad7b9",
         "name": "Bool reset chaud",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 4,
         "exposeToHomeAssistant": false,
         "haConfig": [
@@ -17257,7 +17265,7 @@
         "z": "5fe8574ef0d6675d",
         "g": "64d017b7402143d1",
         "name": "Relais Chauidiere",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 4,
         "exposeToHomeAssistant": false,
         "haConfig": [
@@ -17310,7 +17318,7 @@
         "z": "5fe8574ef0d6675d",
         "g": "64d017b7402143d1",
         "name": "NB boolean on",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 0,
         "rules": [
             {
@@ -17496,7 +17504,7 @@
         "topic": "Garage/octoPrint/progress/printing",
         "qos": "1",
         "datatype": "json",
-        "broker": "5bb4a1c1.27662",
+        "broker": "6ab4d33316cf218b",
         "nl": false,
         "rap": false,
         "inputs": 0,
@@ -17614,492 +17622,12 @@
         ]
     },
     {
-        "id": "1b913047.3b038",
-        "type": "inject",
-        "z": "b3af9cb9.a9fa9",
-        "name": "Date Off",
-        "props": [
-            {
-                "p": "topic",
-                "vt": "str"
-            },
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "/display/date/show",
-        "payload": "1",
-        "payloadType": "num",
-        "x": 160,
-        "y": 1000,
-        "wires": [
-            [
-                "ceec797d.1d5918"
-            ]
-        ]
-    },
-    {
-        "id": "1ffb62cd.20430d",
-        "type": "inject",
-        "z": "b3af9cb9.a9fa9",
-        "name": "Texte Off",
-        "props": [
-            {
-                "p": "topic",
-                "vt": "str"
-            },
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "/display/text/show",
-        "payload": "1",
-        "payloadType": "num",
-        "x": 160,
-        "y": 1040,
-        "wires": [
-            [
-                "ceec797d.1d5918"
-            ]
-        ]
-    },
-    {
-        "id": "dc2207b0.b48c08",
-        "type": "inject",
-        "z": "b3af9cb9.a9fa9",
-        "name": "Heure Off",
-        "props": [
-            {
-                "p": "topic",
-                "vt": "str"
-            },
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "/display/time/show",
-        "payload": "0",
-        "payloadType": "num",
-        "x": 160,
-        "y": 1080,
-        "wires": [
-            [
-                "ceec797d.1d5918"
-            ]
-        ]
-    },
-    {
-        "id": "1aa865b3.c819ba",
-        "type": "inject",
-        "z": "b3af9cb9.a9fa9",
-        "name": "black",
-        "props": [
-            {
-                "p": "topic",
-                "vt": "str"
-            },
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "/display/background/load",
-        "payload": "Black.gif",
-        "payloadType": "str",
-        "x": 150,
-        "y": 1120,
-        "wires": [
-            [
-                "ceec797d.1d5918"
-            ]
-        ]
-    },
-    {
-        "id": "8a6eb9d.512ec48",
-        "type": "inject",
-        "z": "b3af9cb9.a9fa9",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            },
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "/display/text/y",
-        "payload": "10",
-        "payloadType": "str",
-        "x": 180,
-        "y": 1180,
-        "wires": [
-            [
-                "ceec797d.1d5918"
-            ]
-        ]
-    },
-    {
-        "id": "a0185b64.8da038",
-        "type": "inject",
-        "z": "b3af9cb9.a9fa9",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            },
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "/display/text/x",
-        "payload": "1",
-        "payloadType": "str",
-        "x": 180,
-        "y": 1220,
-        "wires": [
-            [
-                "ceec797d.1d5918"
-            ]
-        ]
-    },
-    {
-        "id": "4e2ddf2e.9a8bc",
-        "type": "inject",
-        "z": "b3af9cb9.a9fa9",
-        "name": "start container projetpanel",
-        "props": [
-            {
-                "p": "payload"
-            },
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "",
-        "payloadType": "date",
-        "x": 210,
-        "y": 840,
-        "wires": [
-            [
-                "90b09448.9ae408"
-            ]
-        ]
-    },
-    {
-        "id": "69470b0b.a99b34",
-        "type": "inject",
-        "z": "b3af9cb9.a9fa9",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            },
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "",
-        "payloadType": "date",
-        "x": 160,
-        "y": 1300,
-        "wires": [
-            [
-                "178eea1f.851176"
-            ]
-        ]
-    },
-    {
-        "id": "178eea1f.851176",
-        "type": "function",
-        "z": "b3af9cb9.a9fa9",
-        "name": "",
-        "func": "var current_display = msg.current_display || 0;\n\n// CONFIG\nvar sleep = 3000;\nmsg.topic = \"/display/text/format\";\nvar configs = [\n    {\n        ha_entities: \"sensor.temp_cuis_sonoff_temperature\",\n        title: \"Cuis: #VALUE#°\",\n        sleep: sleep        \n    },\n    {\n        ha_entities: \"sensor.temp_salon_sonoff_temperature\",\n        title: \"Salon: #VALUE#°\",\n        sleep: sleep        \n    },\n    {\n        ha_entities: \"sensor.temp_sdb_temperature\",\n        title: \"SDB: #VALUE#°\",\n        sleep: sleep        \n    },\n    {\n        ha_entities: \"sensor.temp_couloir_temperature\",\n        title: \"Coul: #VALUE#°\",\n        sleep: sleep        \n    },\n    {\n        ha_entities: \"sensor.temp_bureau_temperature\",\n        title: \"Bur: #VALUE#°\",\n        sleep: sleep        \n    },\n    {\n        ha_entities: \"sensor.temp_ch_stelio_temperature\",\n        title: \"Stelio: #VALUE#°\",\n        sleep: sleep        \n    },\n    {\n        ha_entities: \"sensor.temp_gar_bt_temperature\",\n        title: \"Gar: #VALUE#°\",\n        sleep: sleep        \n    }\n]\n\n// function\nmsg.payload = {};\nfor (let sensor in configs[current_display]) {\n    config = configs[current_display]\n    msg.delay = config['sleep'];\n    msg.payload.entity_id = config['ha_entities'];\n    msg.message = config['title'];\n}\n//node.warn (\"current_display avant if = \"+ msg.current_display);\n\nnb_config = configs.length;\n\nif (msg.current_display < nb_config) {\n    msg.current_display = current_display+1;\n   // node.warn (\"current_display dans if= \"+ msg.current_display);\n}else{\n    msg.current_display = 0;\n    config = configs[msg.current_display]\n    msg.delay = config['sleep'];\n    msg.payload.entity_id = config['ha_entities'];\n    msg.message = config['title'];\n}\n\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 330,
-        "y": 1300,
-        "wires": [
-            [
-                "beac65b1.8b5778"
-            ]
-        ]
-    },
-    {
-        "id": "beac65b1.8b5778",
-        "type": "delay",
-        "z": "b3af9cb9.a9fa9",
-        "name": "",
-        "pauseType": "delayv",
-        "timeout": "3",
-        "timeoutUnits": "seconds",
-        "rate": "1",
-        "nbRateUnits": "1",
-        "rateUnits": "second",
-        "randomFirst": "1",
-        "randomLast": "5",
-        "randomUnits": "seconds",
-        "drop": false,
-        "outputs": 1,
-        "x": 510,
-        "y": 1300,
-        "wires": [
-            [
-                "12cda7c8.aa1f58"
-            ]
-        ]
-    },
-    {
-        "id": "ceec797d.1d5918",
-        "type": "mqtt out",
-        "z": "b3af9cb9.a9fa9",
-        "d": true,
-        "name": "",
-        "topic": "",
-        "qos": "",
-        "retain": "",
-        "respTopic": "",
-        "contentType": "",
-        "userProps": "",
-        "correl": "",
-        "expiry": "",
-        "broker": "",
-        "x": 1010,
-        "y": 1000,
-        "wires": []
-    },
-    {
-        "id": "3eb79061.d4979",
-        "type": "function",
-        "z": "b3af9cb9.a9fa9",
-        "name": "",
-        "func": "var ha_value = msg.payload;\nmsg.payload = msg.message.replace('#VALUE#', ha_value);\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 880,
-        "y": 1300,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "4fbca3.8335035c",
-        "type": "inject",
-        "z": "b3af9cb9.a9fa9",
-        "name": "stop container projetpanel",
-        "props": [
-            {
-                "p": "payload"
-            },
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "",
-        "payloadType": "date",
-        "x": 210,
-        "y": 920,
-        "wires": [
-            [
-                "774d1f0a.eefc2"
-            ]
-        ]
-    },
-    {
-        "id": "faf962c7.30ae8",
-        "type": "inject",
-        "z": "b3af9cb9.a9fa9",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            },
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "/display/text/color",
-        "payload": "84e3cd",
-        "payloadType": "str",
-        "x": 190,
-        "y": 1260,
-        "wires": [
-            [
-                "ceec797d.1d5918"
-            ]
-        ]
-    },
-    {
-        "id": "720bc520.d4686c",
-        "type": "inject",
-        "z": "b3af9cb9.a9fa9",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            },
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "/display/date/y",
-        "payload": "20",
-        "payloadType": "str",
-        "x": 160,
-        "y": 1380,
-        "wires": [
-            [
-                "ceec797d.1d5918"
-            ]
-        ]
-    },
-    {
-        "id": "d9a5213.02b14e",
-        "type": "inject",
-        "z": "b3af9cb9.a9fa9",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            },
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "/display/date/format",
-        "payload": "%d/%m/%Y",
-        "payloadType": "str",
-        "x": 210,
-        "y": 1420,
-        "wires": [
-            [
-                "ceec797d.1d5918"
-            ]
-        ]
-    },
-    {
-        "id": "3e139e20f0fc0402",
-        "type": "subflow:b70f79aa.1b96a8",
-        "z": "b3af9cb9.a9fa9",
-        "name": "",
-        "x": 700,
-        "y": 860,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "90b09448.9ae408",
-        "type": "bigssh",
-        "z": "b3af9cb9.a9fa9",
-        "name": "ssh",
-        "commandLine": "docker start project-mqttpanel-0.10",
-        "commandArgs": "",
-        "minError": 1,
-        "minWarning": 1,
-        "noStdin": false,
-        "format": "",
-        "payloadIsArg": false,
-        "myssh": "b649959e.5daf98",
-        "x": 390,
-        "y": 840,
-        "wires": [
-            [],
-            [],
-            []
-        ]
-    },
-    {
-        "id": "774d1f0a.eefc2",
-        "type": "bigssh",
-        "z": "b3af9cb9.a9fa9",
-        "name": "ssh",
-        "commandLine": "docker stop project-mqttpanel-0.10",
-        "commandArgs": "",
-        "minError": 1,
-        "minWarning": 1,
-        "noStdin": false,
-        "format": "",
-        "payloadIsArg": false,
-        "myssh": "b649959e.5daf98",
-        "x": 390,
-        "y": 920,
-        "wires": [
-            [],
-            [],
-            []
-        ]
-    },
-    {
         "id": "27392255.e6a49e",
         "type": "api-call-service",
         "z": "b3af9cb9.a9fa9",
         "g": "4d74fffb.c8d92",
         "name": "ender 3 Snapshot",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "camera",
@@ -18129,7 +17657,7 @@
         "z": "b3af9cb9.a9fa9",
         "g": "4d74fffb.c8d92",
         "name": "Envoi msg",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "notify",
@@ -18155,7 +17683,7 @@
         "z": "b3af9cb9.a9fa9",
         "g": "4d74fffb.c8d92",
         "name": "Nuit?",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 3,
         "outputs": 2,
         "halt_if": "Nuit",
@@ -18178,6 +17706,8 @@
                 "valueType": "entity"
             }
         ],
+        "for": "",
+        "forType": "num",
         "x": 350,
         "y": 60,
         "wires": [
@@ -18193,7 +17723,7 @@
         "z": "b3af9cb9.a9fa9",
         "g": "4d74fffb.c8d92",
         "name": "Etat Impression",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 3,
         "outputs": 2,
         "halt_if": "Printing",
@@ -18216,6 +17746,8 @@
                 "valueType": "entity"
             }
         ],
+        "for": "",
+        "forType": "num",
         "x": 440,
         "y": 220,
         "wires": [
@@ -18226,40 +17758,12 @@
         ]
     },
     {
-        "id": "12cda7c8.aa1f58",
-        "type": "api-current-state",
-        "z": "b3af9cb9.a9fa9",
-        "name": "",
-        "server": "74ee819e.f5e25",
-        "version": 3,
-        "outputs": 1,
-        "halt_if": "",
-        "halt_if_type": "str",
-        "halt_if_compare": "is",
-        "entity_id": "",
-        "state_type": "str",
-        "blockInputOverrides": false,
-        "outputProperties": [],
-        "override_topic": false,
-        "state_location": "payload",
-        "override_payload": "msg",
-        "entity_location": "data",
-        "override_data": "msg",
-        "x": 700,
-        "y": 1300,
-        "wires": [
-            [
-                "3eb79061.d4979"
-            ]
-        ]
-    },
-    {
         "id": "645fc10b.0843d",
         "type": "server-state-changed",
         "z": "b3af9cb9.a9fa9",
         "g": "4d74fffb.c8d92",
         "name": "Impression Terminée",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 4,
         "exposeToHomeAssistant": false,
         "haConfig": [
@@ -18325,7 +17829,7 @@
         "d": true,
         "g": "4d74fffb.c8d92",
         "name": "Etat Imprimante",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 4,
         "exposeToHomeAssistant": false,
         "haConfig": [
@@ -18390,7 +17894,7 @@
         "z": "b3af9cb9.a9fa9",
         "g": "4d74fffb.c8d92",
         "name": "% impression",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 4,
         "exposeToHomeAssistant": false,
         "haConfig": [
@@ -18458,7 +17962,9 @@
         "topic": "rack/in",
         "qos": "1",
         "datatype": "auto",
-        "broker": "5bb4a1c1.27662",
+        "broker": "6ab4d33316cf218b",
+        "nl": false,
+        "rap": false,
         "inputs": 0,
         "x": 90,
         "y": 60,
@@ -18597,7 +18103,12 @@
         "topic": "Garage/rack_serveur/conso",
         "qos": "1",
         "retain": "true",
-        "broker": "5bb4a1c1.27662",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "6ab4d33316cf218b",
         "x": 540,
         "y": 120,
         "wires": []
@@ -19032,7 +18543,7 @@
         "topic": "tagreader/debug",
         "qos": "1",
         "datatype": "auto",
-        "broker": "5bb4a1c1.27662",
+        "broker": "6ab4d33316cf218b",
         "nl": false,
         "rap": false,
         "inputs": 0,
@@ -19394,437 +18905,6 @@
         ]
     },
     {
-        "id": "2beb6133.92c69e",
-        "type": "mqtt in",
-        "z": "43631d17.597e84",
-        "g": "464fc13b.63fec",
-        "name": "",
-        "topic": "sonoff/salon/light_coin/status",
-        "qos": "0",
-        "datatype": "auto",
-        "broker": "5bb4a1c1.27662",
-        "inputs": 0,
-        "x": 160,
-        "y": 1820,
-        "wires": [
-            [
-                "c541ed47.b125e"
-            ]
-        ]
-    },
-    {
-        "id": "10c538bd.770ac7",
-        "type": "link out",
-        "z": "43631d17.597e84",
-        "g": "464fc13b.63fec",
-        "name": "zigbee",
-        "links": [
-            "784c384.9c90ec8"
-        ],
-        "x": 740,
-        "y": 1700,
-        "wires": [],
-        "l": true
-    },
-    {
-        "id": "469ebb11.d79ac4",
-        "type": "change",
-        "z": "43631d17.597e84",
-        "g": "464fc13b.63fec",
-        "name": "Set timeThreshold (1h) & Presence",
-        "rules": [
-            {
-                "t": "set",
-                "p": "time_threshold",
-                "pt": "msg",
-                "to": "1",
-                "tot": "num"
-            },
-            {
-                "t": "set",
-                "p": "presence",
-                "pt": "msg",
-                "to": "false",
-                "tot": "bool"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 510,
-        "y": 1700,
-        "wires": [
-            [
-                "10c538bd.770ac7"
-            ]
-        ]
-    },
-    {
-        "id": "c541ed47.b125e",
-        "type": "switch",
-        "z": "43631d17.597e84",
-        "g": "464fc13b.63fec",
-        "name": "Offline ?",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "offline",
-                "vt": "str"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 420,
-        "y": 1820,
-        "wires": [
-            [
-                "ac8fcaf3.a94438"
-            ]
-        ]
-    },
-    {
-        "id": "ac8fcaf3.a94438",
-        "type": "function",
-        "z": "43631d17.597e84",
-        "g": "464fc13b.63fec",
-        "name": "",
-        "func": "var topic = msg.topic;\n\nvar piece = topic.split(\"/\")[1].charAt(0).toUpperCase();\nvar name = topic.split(\"/\")[2].charAt(0).toUpperCase();\n\nmessage = \"ESPHome / \"+piece+\" / \"+name+\" : Offline\"\n\nmsg.message = message;\nmsg.short_message = message;\nmsg.title   = \"Node-RED : Monitoring report\"\nmsg.dest = \"mail_clement\"\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 570,
-        "y": 1820,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "ad724edb.1e3d8",
-        "type": "link in",
-        "z": "43631d17.597e84",
-        "g": "d08ef2d8.faf3b",
-        "name": "Bluetooth",
-        "links": [
-            "492429aa.dc6c58"
-        ],
-        "x": 980,
-        "y": 1840,
-        "wires": [
-            [
-                "6b24e4b4.e887ec"
-            ]
-        ],
-        "l": true
-    },
-    {
-        "id": "6b24e4b4.e887ec",
-        "type": "function",
-        "z": "43631d17.597e84",
-        "g": "d08ef2d8.faf3b",
-        "name": "Save LastActivity & Format Name",
-        "func": "flowName = msg.topic\nvar protocole = flowName.split('/')[0];\nvar piece = flowName.split('/')[2];\nvar name = flowName.split('/')[3];\n\nflow.set('modules.'+protocole+\".\"+piece+\".\"+name+\".lastActivity\",Date.now())\nflow.set('modules.'+protocole+\".\"+piece+\".\"+name+\".timeThreshold\",msg.time_threshold)\nflow.set('modules.'+protocole+\".\"+piece+\".\"+name+\".presence\",msg.presence)\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1200,
-        "y": 1840,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "784c384.9c90ec8",
-        "type": "link in",
-        "z": "43631d17.597e84",
-        "g": "d08ef2d8.faf3b",
-        "name": "zigbee",
-        "links": [
-            "10c538bd.770ac7"
-        ],
-        "x": 970,
-        "y": 1900,
-        "wires": [
-            [
-                "7cdf8c21.825af4"
-            ]
-        ],
-        "l": true
-    },
-    {
-        "id": "7cdf8c21.825af4",
-        "type": "function",
-        "z": "43631d17.597e84",
-        "g": "d08ef2d8.faf3b",
-        "name": "Save LastActivity & Format Name",
-        "func": "flowName = msg.topic\nvar protocole = flowName.split('/')[0];\nvar piece = flowName.split('/')[1];\nvar name = flowName.split('/')[2];\n\nflow.set('modules.'+protocole+\".\"+piece+\".\"+name+\".lastActivity\",Date.now())\nflow.set('modules.'+protocole+\".\"+piece+\".\"+name+\".timeThreshold\",msg.time_threshold)\nflow.set('modules.'+protocole+\".\"+piece+\".\"+name+\".presence\",msg.presence)\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 1200,
-        "y": 1900,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "515722d8.1af0ac",
-        "type": "inject",
-        "z": "43631d17.597e84",
-        "g": "463e907b.85864",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            },
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "",
-        "payloadType": "date",
-        "x": 120,
-        "y": 1480,
-        "wires": [
-            [
-                "daf55f9b.5ed7c"
-            ]
-        ]
-    },
-    {
-        "id": "d241f14c.bc662",
-        "type": "inject",
-        "z": "43631d17.597e84",
-        "g": "e5b6876c.b55a38",
-        "name": "18:00",
-        "props": [
-            {
-                "p": "payload"
-            },
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "",
-        "crontab": "00 18 * * *",
-        "once": false,
-        "onceDelay": "8",
-        "topic": "",
-        "payload": "",
-        "payloadType": "date",
-        "x": 110,
-        "y": 2140,
-        "wires": [
-            [
-                "ebf52b5d.6a5ce8"
-            ]
-        ]
-    },
-    {
-        "id": "b8325086.891fb",
-        "type": "function",
-        "z": "43631d17.597e84",
-        "g": "e5b6876c.b55a38",
-        "name": "Check state Mattermost",
-        "func": "// CONFIGURATION\nstate_ok = msg.state_ok;\nstate_low = msg.state_low;\nstate_warning = msg.state_warning;\nexclude = msg.exclude\n\n// FUNCTION\ninput = msg.payload;\nmessage = \"\";\n\nfor(let id in input) {\n    if (input[id].state <= state_ok && exclude.includes(input[id].entity_id) === false) {\n        name = input[id].attributes.friendly_name;\n        state = input[id].state;\n        if (parseInt(state) <= state_warning) {\n            // < 15%\n            message = message+\"> :sos: \"+name+\" : \"+state+\"%\\n\";\n        }else if (parseInt(state) <= state_low) {\n            // < 30%\n            message = message+\"> :warning: \"+name+\" : \"+state+\"%\\n\";\n        }else{\n            // OK\n            message = message+\"> :ok: \"+name+\" : \"+state+\"%\\n\";\n        }\n    }\n}\n\nif (message !== \"\" ) {\n    msg.dest = \"mattermost_home\";\n    msg.message = message;\n    return msg;\n}",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 660,
-        "y": 2180,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "ebf52b5d.6a5ce8",
-        "type": "function",
-        "z": "43631d17.597e84",
-        "g": "e5b6876c.b55a38",
-        "name": "Config",
-        "func": "// CONFIGURATION\nmsg.state_ok = 60;\nmsg.state_low = 30;\nmsg.state_warning = 15;\nmsg.exclude = [\n    \"sensor.oneplus_a6010_battery_level\",\n    \"sensor.oneplus_a5000_battery_level\"\n];\n\nreturn msg;\n",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 260,
-        "y": 2140,
-        "wires": [
-            [
-                "67ef464.0cb41b8"
-            ]
-        ]
-    },
-    {
-        "id": "abed77f0.a85e68",
-        "type": "function",
-        "z": "43631d17.597e84",
-        "g": "e5b6876c.b55a38",
-        "name": "Check state Discord",
-        "func": "// CONFIGURATION\nstate_ok = msg.state_ok;\nstate_low = msg.state_low;\nstate_warning = msg.state_warning;\nexclude = msg.exclude\n\n// FUNCTION\ninput = msg.payload;\nmessage = \"\";\n\nfor(let id in input) {\n    if (input[id].state <= state_ok && exclude.includes(input[id].entity_id) === false) {\n        name = input[id].attributes.friendly_name;\n        state = input[id].state;\n        if (parseInt(state) <= state_warning) {\n            // < 15%\n            message = message+\"> :red_circle: \"+name+\" : \"+state+\"%\\n\";\n        }else if (parseInt(state) <= state_low) {\n            // < 30%\n            message = message+\"> :orange_circle: \"+name+\" : \"+state+\"%\\n\";\n        }else{\n            // OK\n            message = message+\"> :green_circle: \"+name+\" : \"+state+\"%\\n\";\n        }\n    }\n}\n\nif (message !== \"\" ) {\n    msg.dest = \"discord_maison_general\";\n    msg.message = message;\n    return msg;\n}",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 650,
-        "y": 2140,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "7f4b7c7f.26b664",
-        "type": "function",
-        "z": "43631d17.597e84",
-        "g": "e5b6876c.b55a38",
-        "name": "Check state Email",
-        "func": "// CONFIGURATION\nstate_ok = msg.state_ok;\nstate_low = msg.state_low;\nstate_warning = msg.state_warning;\nexclude = msg.exclude\n\n// FUNCTION\ninput = msg.payload;\nmessage = \"\";\n\nfor(let id in input) {\n    if (input[id].state <= state_ok && exclude.includes(input[id].entity_id) === false) {\n        name = input[id].attributes.friendly_name;\n        state = input[id].state;\n        if (parseInt(state) <= state_warning) {\n            // < 15%\n            message = message+name+\" : \"+state+\"%\\n\";\n        }\n    }\n}\n\nif (message !== \"\" ) {\n    msg.dest = \"mail_clement\";\n    msg.title = \"Battery low !\"\n    msg.message = message;\n    return msg;\n}",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 660,
-        "y": 2100,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "1a9956fd.6ffaa9",
-        "type": "function",
-        "z": "43631d17.597e84",
-        "g": "f6137ef1.2b644",
-        "name": "Check if LastActivity < timeThreshold",
-        "func": "var retour = \"\"\n\nvar modules = flow.get(\"modules\");\nvar presence = global.get(\"presence\");\n\nvar date = new Date();\n\nvar ts = Math.round(new Date().getTime() / 1000);\n\nfor(let data1 in modules) {\n    var protocole = data1\n    for(let data2 in modules[data1]) {\n        var piece = data2\n        for(let data3 in modules[data1][data2]) {\n            var name = data3\n            var value = modules[data1][data2][data3].lastActivity\n            var time_threshold = modules[data1][data2][data3].timeThreshold\n            var check_presence = modules[data1][data2][data3].presence\n            var status = modules[data1][data2][data3].status\n            date = new Date(value);                        \n            value = parseInt(value/1000)\n            \n            // Timer Threshold calc\n            var tsYesterday = ts - (time_threshold * 3600);\n            // var tsYesterday = ts;\n            \n            if ((check_presence === true && presence === true) || check_presence === false) {\n                if( value <= tsYesterday) {\n                    if(status === true) {\n                        retour = retour + protocole.toUpperCase() + \" / \"+ piece.charAt(0).toUpperCase() + piece.slice(1) + \" : \" +  name + \" => KO<br> => Dernière activité : \"+date+\"<br><br>\"\n                        flow.set(\"modules.\"+protocole+\".\"+piece+\".\"+name+\".status\",false)\n                    }\n                }else{\n                    if(status === false) {\n                        retour = retour + protocole.toUpperCase() + \" / \"+ piece.charAt(0).toUpperCase() + piece.slice(1) + \" : \" +  name + \" => OK<br> => Dernière activité : \"+date+\"<br><br>\"\n                        flow.set(\"modules.\"+protocole+\".\"+piece+\".\"+name+\".status\",true)\n                    }\n                }\n            }\n        }\n    }\n}\n\nmsg.message = retour;\nmsg.short_message = retour;\nmsg.title   = \"Node-RED : Monitoring report\"\nmsg.dest = \"discord_reseau\"\n\nif (retour !== \"\") {\n    return msg;\n}",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "x": 410,
-        "y": 1600,
-        "wires": [
-            [
-                "496cd6f3.a8a508"
-            ]
-        ]
-    },
-    {
-        "id": "50a5d2f9.3015fc",
-        "type": "mqtt in",
-        "z": "43631d17.597e84",
-        "g": "2489fa6d.d503d6",
-        "name": "",
-        "topic": "bluetooth/blea/presence/nut_clement",
-        "qos": "0",
-        "datatype": "auto",
-        "broker": "5bb4a1c1.27662",
-        "nl": false,
-        "rap": false,
-        "inputs": 0,
-        "x": 180,
-        "y": 1920,
-        "wires": [
-            [
-                "c42a7999.62c868"
-            ]
-        ]
-    },
-    {
-        "id": "581cd659.096cb8",
-        "type": "mqtt in",
-        "z": "43631d17.597e84",
-        "g": "2489fa6d.d503d6",
-        "name": "",
-        "topic": "bluetooth/blea/presence/nut_nathalie",
-        "qos": "0",
-        "datatype": "auto",
-        "broker": "5bb4a1c1.27662",
-        "inputs": 0,
-        "x": 180,
-        "y": 2000,
-        "wires": [
-            [
-                "c42a7999.62c868"
-            ]
-        ]
-    },
-    {
-        "id": "c42a7999.62c868",
-        "type": "change",
-        "z": "43631d17.597e84",
-        "g": "2489fa6d.d503d6",
-        "name": "Set timeThreshold (16h) & Presence",
-        "rules": [
-            {
-                "t": "set",
-                "p": "time_threshold",
-                "pt": "msg",
-                "to": "16",
-                "tot": "num"
-            },
-            {
-                "t": "set",
-                "p": "presence",
-                "pt": "msg",
-                "to": "true",
-                "tot": "bool"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 520,
-        "y": 1960,
-        "wires": [
-            [
-                "492429aa.dc6c58"
-            ]
-        ]
-    },
-    {
-        "id": "492429aa.dc6c58",
-        "type": "link out",
-        "z": "43631d17.597e84",
-        "g": "2489fa6d.d503d6",
-        "name": "Bluetooth",
-        "links": [
-            "ad724edb.1e3d8"
-        ],
-        "x": 760,
-        "y": 1960,
-        "wires": [],
-        "l": true
-    },
-    {
-        "id": "496cd6f3.a8a508",
-        "type": "subflow:711f44dc.b8379c",
-        "z": "43631d17.597e84",
-        "d": true,
-        "g": "f6137ef1.2b644",
-        "name": "",
-        "env": [],
-        "x": 650,
-        "y": 1600,
-        "wires": []
-    },
-    {
         "id": "ba16cf1cc5a537a4",
         "type": "delay",
         "z": "43631d17.597e84",
@@ -20147,61 +19227,6 @@
         ]
     },
     {
-        "id": "daf55f9b.5ed7c",
-        "type": "credentials",
-        "z": "43631d17.597e84",
-        "g": "463e907b.85864",
-        "name": "Configure E-mail To + replyTo",
-        "props": [
-            {
-                "value": "contact_email",
-                "type": "global"
-            },
-            {
-                "value": "contact_email_replyto",
-                "type": "global"
-            }
-        ],
-        "x": 330,
-        "y": 1480,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "92cf5041.effb8",
-        "type": "cronplus",
-        "z": "43631d17.597e84",
-        "g": "f6137ef1.2b644",
-        "name": "@ */10 minutes",
-        "outputField": "payload",
-        "timeZone": "",
-        "persistDynamic": false,
-        "commandResponseMsgOutput": "output1",
-        "outputs": 1,
-        "options": [
-            {
-                "name": "schedule1",
-                "topic": "schedule1",
-                "payloadType": "default",
-                "payload": "",
-                "expressionType": "cron",
-                "expression": "0 */10 * * * * *",
-                "location": "",
-                "offset": "0",
-                "solarType": "all",
-                "solarEvents": "sunrise,sunset"
-            }
-        ],
-        "x": 140,
-        "y": 1600,
-        "wires": [
-            [
-                "1a9956fd.6ffaa9"
-            ]
-        ]
-    },
-    {
         "id": "dab08bfd.f8e128",
         "type": "zigbee2mqtt-get",
         "z": "43631d17.597e84",
@@ -20283,7 +19308,7 @@
         "z": "43631d17.597e84",
         "g": "de698d74.637d3",
         "name": "Notif extinction",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "notify",
@@ -20309,7 +19334,7 @@
         "z": "43631d17.597e84",
         "g": "637fbef2c6f5e0a5",
         "name": "HA Restart",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "homeassistant",
@@ -20335,7 +19360,7 @@
         "z": "43631d17.597e84",
         "g": "de698d74.637d3",
         "name": "UPS status",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 3,
         "outputs": 2,
         "halt_if": "100",
@@ -20358,6 +19383,8 @@
                 "valueType": "entity"
             }
         ],
+        "for": "",
+        "forType": "num",
         "x": 290,
         "y": 640,
         "wires": [
@@ -20373,7 +19400,7 @@
         "z": "43631d17.597e84",
         "g": "de698d74.637d3",
         "name": "Action app",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 1,
         "event_type": "mobile_app_notification_action",
         "exposeToHomeAssistant": false,
@@ -20422,7 +19449,7 @@
         "z": "43631d17.597e84",
         "g": "b401b79a.2d5288",
         "name": "Input Voltage",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 4,
         "exposeToHomeAssistant": false,
         "haConfig": [
@@ -20486,7 +19513,7 @@
         "z": "43631d17.597e84",
         "g": "a873e43.347ec18",
         "name": "Fenetre HS",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 4,
         "exposeToHomeAssistant": false,
         "haConfig": [
@@ -20551,7 +19578,7 @@
         "z": "43631d17.597e84",
         "g": "a873e43.347ec18",
         "name": "Porte HS",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 4,
         "exposeToHomeAssistant": false,
         "haConfig": [
@@ -20616,7 +19643,7 @@
         "z": "43631d17.597e84",
         "g": "a873e43.347ec18",
         "name": "Pres HS",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 4,
         "exposeToHomeAssistant": false,
         "haConfig": [
@@ -20681,7 +19708,7 @@
         "z": "43631d17.597e84",
         "g": "de698d74.637d3",
         "name": "UPS voltage",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 4,
         "exposeToHomeAssistant": false,
         "haConfig": [
@@ -20802,7 +19829,7 @@
         "z": "43631d17.597e84",
         "g": "637fbef2c6f5e0a5",
         "name": "Samba Backup",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 4,
         "exposeToHomeAssistant": false,
         "haConfig": [
@@ -20867,7 +19894,7 @@
         "z": "43631d17.597e84",
         "g": "a873e43.347ec18",
         "name": "Compteur Signal",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 4,
         "exposeToHomeAssistant": false,
         "haConfig": [
@@ -20932,7 +19959,7 @@
         "z": "43631d17.597e84",
         "g": "b401b79a.2d5288",
         "name": "Recup batteries",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 0,
         "rules": [
             {
@@ -20967,7 +19994,7 @@
         "z": "43631d17.597e84",
         "g": "b401b79a.2d5288",
         "name": "Recup battery_low",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 0,
         "rules": [
             {
@@ -20987,43 +20014,6 @@
         "wires": [
             [
                 "8cdb9914.79a628"
-            ]
-        ]
-    },
-    {
-        "id": "67ef464.0cb41b8",
-        "type": "ha-get-entities",
-        "z": "43631d17.597e84",
-        "g": "e5b6876c.b55a38",
-        "name": "",
-        "server": "74ee819e.f5e25",
-        "version": 0,
-        "rules": [
-            {
-                "property": "attributes.device_class",
-                "logic": "is",
-                "value": "battery",
-                "valueType": "str"
-            },
-            {
-                "property": "attributes.unit_of_measurement",
-                "logic": "is",
-                "value": "%",
-                "valueType": "str"
-            }
-        ],
-        "output_type": "array",
-        "output_empty_results": false,
-        "output_location_type": "msg",
-        "output_location": "payload",
-        "output_results_count": 1,
-        "x": 420,
-        "y": 2140,
-        "wires": [
-            [
-                "abed77f0.a85e68",
-                "b8325086.891fb",
-                "7f4b7c7f.26b664"
             ]
         ]
     },
@@ -21843,7 +20833,7 @@
         "topic": "DahuaVTO/Invite/Event",
         "qos": "1",
         "datatype": "json",
-        "broker": "5bb4a1c1.27662",
+        "broker": "6ab4d33316cf218b",
         "nl": false,
         "rap": false,
         "inputs": 0,
@@ -22531,7 +21521,7 @@
         "z": "4c110565.89018c",
         "g": "aed256f1.649fa8",
         "name": " Descendre garage",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "cover",
@@ -22559,7 +21549,7 @@
         "z": "4c110565.89018c",
         "g": "aed256f1.649fa8",
         "name": "Monter garage ",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "cover",
@@ -22589,7 +21579,7 @@
         "z": "4c110565.89018c",
         "g": "aed256f1.649fa8",
         "name": "Reset Boolean facteur",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "input_boolean",
@@ -22617,7 +21607,7 @@
         "z": "4c110565.89018c",
         "g": "aed256f1.649fa8",
         "name": "Envoi Photo Telegram",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "telegram_bot",
@@ -22643,7 +21633,7 @@
         "z": "4c110565.89018c",
         "g": "aed256f1.649fa8",
         "name": "Envoi Photo Discord",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "notify",
@@ -22669,7 +21659,7 @@
         "z": "4c110565.89018c",
         "g": "aed256f1.649fa8",
         "name": "",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "input_boolean",
@@ -22697,7 +21687,7 @@
         "z": "4c110565.89018c",
         "g": "aed256f1.649fa8",
         "name": "Rue Snapshot",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "camera",
@@ -22728,7 +21718,7 @@
         "z": "4c110565.89018c",
         "g": "5543a07b.da5c6",
         "name": "Cast Input OFF",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "input_boolean",
@@ -22756,7 +21746,7 @@
         "z": "4c110565.89018c",
         "g": "5543a07b.da5c6",
         "name": "Cast Input ON",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "input_boolean",
@@ -22784,7 +21774,7 @@
         "z": "4c110565.89018c",
         "g": "5543a07b.da5c6",
         "name": "Vol 0%",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "media_player",
@@ -22814,7 +21804,7 @@
         "z": "4c110565.89018c",
         "g": "f894ff9b.c4edc",
         "name": "Cast Input OFF",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "input_boolean",
@@ -22842,7 +21832,7 @@
         "z": "4c110565.89018c",
         "g": "f894ff9b.c4edc",
         "name": "Cast Input ON",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "input_boolean",
@@ -22870,7 +21860,7 @@
         "z": "4c110565.89018c",
         "g": "f894ff9b.c4edc",
         "name": "Vol 0%",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "media_player",
@@ -22900,7 +21890,7 @@
         "z": "4c110565.89018c",
         "g": "aed256f1.649fa8",
         "name": "Notif bouton",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "notify",
@@ -22925,7 +21915,7 @@
         "type": "api-call-service",
         "z": "4c110565.89018c",
         "name": "Telegram Call",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "notify",
@@ -22950,7 +21940,7 @@
         "type": "api-call-service",
         "z": "4c110565.89018c",
         "name": "Whatsapp",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "notify",
@@ -22964,7 +21954,7 @@
         "mustacheAltTags": false,
         "outputProperties": [],
         "queue": "none",
-        "x": 400,
+        "x": 460,
         "y": 1200,
         "wires": [
             []
@@ -23034,7 +22024,7 @@
         "z": "4c110565.89018c",
         "g": "a886b72e2c3d2cda",
         "name": "Bool gar aliki off",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "input_boolean",
@@ -23062,7 +22052,7 @@
         "z": "4c110565.89018c",
         "g": "a886b72e2c3d2cda",
         "name": "Sw garage aliki off",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "switch",
@@ -23092,7 +22082,7 @@
         "z": "4c110565.89018c",
         "g": "a886b72e2c3d2cda",
         "name": "Sw garage aliki on",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "switch",
@@ -23149,7 +22139,7 @@
         "z": "4c110565.89018c",
         "g": "5b43065d.519348",
         "name": "Poubelles",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 3,
         "outputs": 2,
         "halt_if": "1",
@@ -23166,6 +22156,8 @@
                 "valueType": "str"
             }
         ],
+        "for": "",
+        "forType": "num",
         "x": 1320,
         "y": 40,
         "wires": [
@@ -23181,7 +22173,7 @@
         "z": "4c110565.89018c",
         "g": "5b43065d.519348",
         "name": "Carton PMC",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 3,
         "outputs": 2,
         "halt_if": "1",
@@ -23198,6 +22190,8 @@
                 "valueType": "str"
             }
         ],
+        "for": "",
+        "forType": "num",
         "x": 1330,
         "y": 100,
         "wires": [
@@ -23213,7 +22207,7 @@
         "z": "4c110565.89018c",
         "g": "aed256f1.649fa8",
         "name": "home jona",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 3,
         "outputs": 2,
         "halt_if": "home",
@@ -23236,6 +22230,8 @@
                 "valueType": "entity"
             }
         ],
+        "for": "",
+        "forType": "num",
         "x": 290,
         "y": 520,
         "wires": [
@@ -23251,7 +22247,7 @@
         "z": "4c110565.89018c",
         "g": "aed256f1.649fa8",
         "name": "home aliki",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 3,
         "outputs": 2,
         "halt_if": "home",
@@ -23274,6 +22270,8 @@
                 "valueType": "entity"
             }
         ],
+        "for": "",
+        "forType": "num",
         "x": 280,
         "y": 560,
         "wires": [
@@ -23289,7 +22287,7 @@
         "z": "4c110565.89018c",
         "g": "aed256f1.649fa8",
         "name": "Action app",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 1,
         "event_type": "mobile_app_notification_action",
         "exposeToHomeAssistant": false,
@@ -23338,7 +22336,7 @@
         "z": "4c110565.89018c",
         "g": "aed256f1.649fa8",
         "name": "Boolean facteur",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 4,
         "exposeToHomeAssistant": false,
         "haConfig": [
@@ -23403,7 +22401,7 @@
         "z": "4c110565.89018c",
         "g": "5543a07b.da5c6",
         "name": "Cast Input Boolean",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 4,
         "exposeToHomeAssistant": false,
         "haConfig": [
@@ -23465,7 +22463,7 @@
         "z": "4c110565.89018c",
         "g": "f894ff9b.c4edc",
         "name": "Cast Input Boolean",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 4,
         "exposeToHomeAssistant": false,
         "haConfig": [
@@ -23526,7 +22524,7 @@
         "type": "server-state-changed",
         "z": "4c110565.89018c",
         "name": "Detect Cam salon",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 4,
         "exposeToHomeAssistant": false,
         "haConfig": [
@@ -23643,7 +22641,7 @@
         "z": "4c110565.89018c",
         "g": "a886b72e2c3d2cda",
         "name": "Bool Gar Aliki",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 4,
         "exposeToHomeAssistant": false,
         "haConfig": [
@@ -23696,7 +22694,7 @@
         "z": "4c110565.89018c",
         "g": "de9a5bfb0704e2ae",
         "name": "Frigate CPU",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 4,
         "exposeToHomeAssistant": false,
         "haConfig": [
@@ -23752,7 +22750,7 @@
         "topic": "zigbee2mqtt/Temp_Cuisine/#",
         "qos": "0",
         "datatype": "utf8",
-        "broker": "5bb4a1c1.27662",
+        "broker": "6ab4d33316cf218b",
         "nl": false,
         "rap": false,
         "inputs": 0,
@@ -23773,7 +22771,7 @@
         "topic": "zigbee2mqtt/Temp_Salon/#",
         "qos": "1",
         "datatype": "utf8",
-        "broker": "5bb4a1c1.27662",
+        "broker": "6ab4d33316cf218b",
         "nl": false,
         "rap": false,
         "inputs": 0,
@@ -23794,7 +22792,7 @@
         "topic": "zigbee2mqtt/Temp_Couloir/#",
         "qos": "1",
         "datatype": "utf8",
-        "broker": "5bb4a1c1.27662",
+        "broker": "6ab4d33316cf218b",
         "nl": false,
         "rap": false,
         "inputs": 0,
@@ -23815,7 +22813,7 @@
         "topic": "zigbee2mqtt/Temp_bureau/#",
         "qos": "1",
         "datatype": "utf8",
-        "broker": "5bb4a1c1.27662",
+        "broker": "6ab4d33316cf218b",
         "nl": false,
         "rap": false,
         "inputs": 0,
@@ -23836,7 +22834,7 @@
         "topic": "zigbee2mqtt/Temp_CH_stelio/#",
         "qos": "1",
         "datatype": "utf8",
-        "broker": "5bb4a1c1.27662",
+        "broker": "6ab4d33316cf218b",
         "nl": false,
         "rap": false,
         "inputs": 0,
@@ -23857,7 +22855,7 @@
         "topic": "zigbee2mqtt/Temp_CH_parents/#",
         "qos": "1",
         "datatype": "utf8",
-        "broker": "5bb4a1c1.27662",
+        "broker": "6ab4d33316cf218b",
         "nl": false,
         "rap": false,
         "inputs": 0,
@@ -23903,7 +22901,7 @@
         "userProps": "",
         "correl": "",
         "expiry": "",
-        "broker": "5bb4a1c1.27662",
+        "broker": "6ab4d33316cf218b",
         "x": 580,
         "y": 420,
         "wires": []
@@ -23973,7 +22971,7 @@
         "userProps": "",
         "correl": "",
         "expiry": "",
-        "broker": "5bb4a1c1.27662",
+        "broker": "6ab4d33316cf218b",
         "x": 810,
         "y": 520,
         "wires": []
@@ -23987,7 +22985,7 @@
         "topic": "zigbee2mqtt/Temp_SDB/#",
         "qos": "1",
         "datatype": "utf8",
-        "broker": "5bb4a1c1.27662",
+        "broker": "6ab4d33316cf218b",
         "nl": false,
         "rap": false,
         "inputs": 0,
@@ -24025,7 +23023,7 @@
         "topic": "zigbee2mqtt/Temp_Atelier/#",
         "qos": "1",
         "datatype": "utf8",
-        "broker": "5bb4a1c1.27662",
+        "broker": "6ab4d33316cf218b",
         "nl": false,
         "rap": false,
         "inputs": 0,
@@ -24046,7 +23044,7 @@
         "topic": "system-sensors/sensor/frigate/state",
         "qos": "1",
         "datatype": "utf8",
-        "broker": "5bb4a1c1.27662",
+        "broker": "6ab4d33316cf218b",
         "nl": false,
         "rap": false,
         "inputs": 0,
@@ -24129,7 +23127,7 @@
         "userProps": "",
         "correl": "",
         "expiry": "",
-        "broker": "5bb4a1c1.27662",
+        "broker": "6ab4d33316cf218b",
         "x": 480,
         "y": 620,
         "wires": []
@@ -24173,7 +23171,7 @@
         "topic": "AWTRIXHD/porte",
         "qos": "1",
         "datatype": "auto",
-        "broker": "5bb4a1c1.27662",
+        "broker": "6ab4d33316cf218b",
         "nl": false,
         "rap": true,
         "rh": 0,
@@ -24218,7 +23216,7 @@
         "z": "b57132d6949dd8f7",
         "g": "a4d10e3019b9b0f6",
         "name": "Bool portail off",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "input_boolean",
@@ -24246,7 +23244,7 @@
         "z": "b57132d6949dd8f7",
         "g": "a4d10e3019b9b0f6",
         "name": "Bool portail on",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "input_boolean",
@@ -24976,7 +23974,7 @@
         "z": "797e40da.11773",
         "g": "74b2a6a2.9e98b8",
         "name": "Notif Simple",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "notify",
@@ -25002,7 +24000,7 @@
         "z": "797e40da.11773",
         "g": "74b2a6a2.9e98b8",
         "name": "Notif bouton",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "notify",
@@ -25028,7 +24026,7 @@
         "z": "797e40da.11773",
         "g": "74b2a6a2.9e98b8",
         "name": "Action app",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 1,
         "event_type": "mobile_app_notification_action",
         "exposeToHomeAssistant": false,
@@ -27678,7 +26676,7 @@
         "z": "5316d42f.ab97dc",
         "g": "d0789cc6.3bfb8",
         "name": "Eteint chaudière",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "switch",
@@ -27708,7 +26706,7 @@
         "z": "5316d42f.ab97dc",
         "g": "449a1278.f6048c",
         "name": "Set T°",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "climate",
@@ -27736,7 +26734,7 @@
         "z": "5316d42f.ab97dc",
         "g": "ece9d4bb.8ea598",
         "name": "Set T° Garage",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "climate",
@@ -27764,7 +26762,7 @@
         "z": "5316d42f.ab97dc",
         "g": "ece9d4bb.8ea598",
         "name": "Set T° Cuisine",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "climate",
@@ -27792,7 +26790,7 @@
         "z": "5316d42f.ab97dc",
         "g": "ece9d4bb.8ea598",
         "name": "Set T° Salon",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "climate",
@@ -27820,7 +26818,7 @@
         "z": "5316d42f.ab97dc",
         "g": "ece9d4bb.8ea598",
         "name": "Set T° SDB",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "climate",
@@ -27848,7 +26846,7 @@
         "z": "5316d42f.ab97dc",
         "g": "ece9d4bb.8ea598",
         "name": "Set T° Couloir",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "climate",
@@ -27876,7 +26874,7 @@
         "z": "5316d42f.ab97dc",
         "g": "ece9d4bb.8ea598",
         "name": "Set T° Bureau",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "climate",
@@ -27904,7 +26902,7 @@
         "z": "5316d42f.ab97dc",
         "g": "ece9d4bb.8ea598",
         "name": "Set T° ch stelio",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "climate",
@@ -27932,7 +26930,7 @@
         "z": "5316d42f.ab97dc",
         "g": "2b3a788f.9c40d8",
         "name": "Allume chaudière",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "switch",
@@ -27962,7 +26960,7 @@
         "z": "5316d42f.ab97dc",
         "g": "2b3a788f.9c40d8",
         "name": "Eteint chaudière",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "switch",
@@ -27993,7 +26991,7 @@
         "z": "5316d42f.ab97dc",
         "g": "449a1278.f6048c",
         "name": "Piece ON",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "climate",
@@ -28023,7 +27021,7 @@
         "z": "5316d42f.ab97dc",
         "g": "449a1278.f6048c",
         "name": "Piece OFF",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "climate",
@@ -28052,7 +27050,7 @@
         "type": "api-call-service",
         "z": "5316d42f.ab97dc",
         "name": "Allumer Boiler",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "switch",
@@ -28081,7 +27079,7 @@
         "type": "api-call-service",
         "z": "5316d42f.ab97dc",
         "name": "Eteindre Boiler",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "switch",
@@ -28109,7 +27107,7 @@
         "z": "5316d42f.ab97dc",
         "g": "c009a51c.e26758",
         "name": "Sdb +",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "climate",
@@ -28144,7 +27142,7 @@
         "z": "5316d42f.ab97dc",
         "g": "3deb6699.aaf26a",
         "name": "Allume chaudière",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "switch",
@@ -28174,7 +27172,7 @@
         "z": "5316d42f.ab97dc",
         "g": "3deb6699.aaf26a",
         "name": "Eteint chaudière",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "switch",
@@ -28205,7 +27203,7 @@
         "z": "5316d42f.ab97dc",
         "g": "98e748f4598d0b92",
         "name": "Bool reset chaud off",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "input_boolean",
@@ -28233,7 +27231,7 @@
         "z": "5316d42f.ab97dc",
         "g": "98e748f4598d0b92",
         "name": "Sw reset chaud off",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "switch",
@@ -28263,7 +27261,7 @@
         "z": "5316d42f.ab97dc",
         "g": "98e748f4598d0b92",
         "name": "Sw reset chaud ",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "switch",
@@ -28293,7 +27291,7 @@
         "z": "5316d42f.ab97dc",
         "g": "ec122d7706b9e41c",
         "name": "Notif bouton",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "notify",
@@ -28319,7 +27317,7 @@
         "z": "5316d42f.ab97dc",
         "g": "ec122d7706b9e41c",
         "name": "Relais On",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "switch",
@@ -28347,7 +27345,7 @@
         "z": "5316d42f.ab97dc",
         "g": "64acaad.81af854",
         "name": "Nbre de pièces",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 3,
         "outputs": 1,
         "halt_if": "",
@@ -28370,6 +27368,8 @@
                 "valueType": "entity"
             }
         ],
+        "for": "",
+        "forType": "num",
         "x": 320,
         "y": 60,
         "wires": [
@@ -28384,7 +27384,7 @@
         "z": "5316d42f.ab97dc",
         "g": "12bd6589.118aba",
         "name": "Chauffage On ?",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 3,
         "outputs": 2,
         "halt_if": "on",
@@ -28407,6 +27407,8 @@
                 "valueType": "entity"
             }
         ],
+        "for": "",
+        "forType": "num",
         "x": 690,
         "y": 641,
         "wires": [
@@ -28424,7 +27426,7 @@
         "z": "5316d42f.ab97dc",
         "g": "449a1278.f6048c",
         "name": "Get generic device",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 3,
         "outputs": 1,
         "halt_if": "",
@@ -28447,6 +27449,8 @@
                 "valueType": "entity"
             }
         ],
+        "for": "",
+        "forType": "num",
         "x": 810,
         "y": 940,
         "wires": [
@@ -28461,7 +27465,7 @@
         "z": "5316d42f.ab97dc",
         "g": "ece9d4bb.8ea598",
         "name": "Bed time children week",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 3,
         "outputs": 1,
         "halt_if": "",
@@ -28484,6 +27488,8 @@
                 "valueType": "entity"
             }
         ],
+        "for": "",
+        "forType": "num",
         "x": 510,
         "y": 1240,
         "wires": [
@@ -28498,7 +27504,7 @@
         "z": "5316d42f.ab97dc",
         "g": "ece9d4bb.8ea598",
         "name": "Wake-up children week",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 3,
         "outputs": 1,
         "halt_if": "",
@@ -28521,6 +27527,8 @@
                 "valueType": "entity"
             }
         ],
+        "for": "",
+        "forType": "num",
         "x": 930,
         "y": 1240,
         "wires": [
@@ -28535,7 +27543,7 @@
         "z": "5316d42f.ab97dc",
         "g": "ece9d4bb.8ea598",
         "name": "t° when OFF",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 3,
         "outputs": 1,
         "halt_if": "",
@@ -28558,6 +27566,8 @@
                 "valueType": "entity"
             }
         ],
+        "for": "",
+        "forType": "num",
         "x": 970,
         "y": 1352,
         "wires": [
@@ -28572,7 +27582,7 @@
         "z": "5316d42f.ab97dc",
         "g": "ece9d4bb.8ea598",
         "name": "t° when ON",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 3,
         "outputs": 1,
         "halt_if": "",
@@ -28595,6 +27605,8 @@
                 "valueType": "entity"
             }
         ],
+        "for": "",
+        "forType": "num",
         "x": 969,
         "y": 1402,
         "wires": [
@@ -28609,7 +27621,7 @@
         "z": "5316d42f.ab97dc",
         "g": "ece9d4bb.8ea598",
         "name": "t° when OFF",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 3,
         "outputs": 1,
         "halt_if": "",
@@ -28632,6 +27644,8 @@
                 "valueType": "entity"
             }
         ],
+        "for": "",
+        "forType": "num",
         "x": 969,
         "y": 1450,
         "wires": [
@@ -28646,7 +27660,7 @@
         "z": "5316d42f.ab97dc",
         "g": "ece9d4bb.8ea598",
         "name": "t° when ON",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 3,
         "outputs": 1,
         "halt_if": "",
@@ -28669,6 +27683,8 @@
                 "valueType": "entity"
             }
         ],
+        "for": "",
+        "forType": "num",
         "x": 970,
         "y": 1495,
         "wires": [
@@ -28683,7 +27699,7 @@
         "z": "5316d42f.ab97dc",
         "g": "ece9d4bb.8ea598",
         "name": "Bed time parents week",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 3,
         "outputs": 1,
         "halt_if": "",
@@ -28706,6 +27722,8 @@
                 "valueType": "entity"
             }
         ],
+        "for": "",
+        "forType": "num",
         "x": 480,
         "y": 1500,
         "wires": [
@@ -28720,7 +27738,7 @@
         "z": "5316d42f.ab97dc",
         "g": "ece9d4bb.8ea598",
         "name": "Wake-up parents week",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 3,
         "outputs": 1,
         "halt_if": "",
@@ -28743,6 +27761,8 @@
                 "valueType": "entity"
             }
         ],
+        "for": "",
+        "forType": "num",
         "x": 180,
         "y": 1566,
         "wires": [
@@ -28757,7 +27777,7 @@
         "z": "5316d42f.ab97dc",
         "g": "ece9d4bb.8ea598",
         "name": "t° when OFF",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 3,
         "outputs": 1,
         "halt_if": "",
@@ -28780,6 +27800,8 @@
                 "valueType": "entity"
             }
         ],
+        "for": "",
+        "forType": "num",
         "x": 971,
         "y": 1540,
         "wires": [
@@ -28799,7 +27821,7 @@
         "z": "5316d42f.ab97dc",
         "g": "ece9d4bb.8ea598",
         "name": "t° when ON",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 3,
         "outputs": 1,
         "halt_if": "",
@@ -28822,6 +27844,8 @@
                 "valueType": "entity"
             }
         ],
+        "for": "",
+        "forType": "num",
         "x": 970,
         "y": 1590,
         "wires": [
@@ -28841,7 +27865,7 @@
         "z": "5316d42f.ab97dc",
         "g": "449a1278.f6048c",
         "name": "Etat",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 3,
         "outputs": 1,
         "halt_if": "",
@@ -28864,6 +27888,8 @@
                 "valueType": "entity"
             }
         ],
+        "for": "",
+        "forType": "num",
         "x": 390,
         "y": 1080,
         "wires": [
@@ -28878,7 +27904,7 @@
         "z": "5316d42f.ab97dc",
         "g": "449a1278.f6048c",
         "name": "t° when OFF",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 3,
         "outputs": 1,
         "halt_if": "",
@@ -28901,6 +27927,8 @@
                 "valueType": "entity"
             }
         ],
+        "for": "",
+        "forType": "num",
         "x": 790,
         "y": 1120,
         "wires": [
@@ -28915,7 +27943,7 @@
         "z": "5316d42f.ab97dc",
         "g": "449a1278.f6048c",
         "name": "t° when ON",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 3,
         "outputs": 1,
         "halt_if": "",
@@ -28938,6 +27966,8 @@
                 "valueType": "entity"
             }
         ],
+        "for": "",
+        "forType": "num",
         "x": 790,
         "y": 1060,
         "wires": [
@@ -28951,7 +27981,7 @@
         "type": "api-current-state",
         "z": "5316d42f.ab97dc",
         "name": "<50",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 3,
         "outputs": 2,
         "halt_if": "50",
@@ -28974,6 +28004,8 @@
                 "valueType": "entity"
             }
         ],
+        "for": "",
+        "forType": "num",
         "x": 250,
         "y": 1780,
         "wires": [
@@ -28989,7 +28021,7 @@
         "z": "5316d42f.ab97dc",
         "g": "ece9d4bb.8ea598",
         "name": "Chauffage On ?",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 3,
         "outputs": 2,
         "halt_if": "on",
@@ -29012,6 +28044,8 @@
                 "valueType": "entity"
             }
         ],
+        "for": "",
+        "forType": "num",
         "x": 460,
         "y": 1400,
         "wires": [
@@ -29027,7 +28061,7 @@
         "z": "5316d42f.ab97dc",
         "g": "ece9d4bb.8ea598",
         "name": "Chauffage On ?",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 3,
         "outputs": 2,
         "halt_if": "on",
@@ -29050,6 +28084,8 @@
                 "valueType": "entity"
             }
         ],
+        "for": "",
+        "forType": "num",
         "x": 280,
         "y": 1500,
         "wires": [
@@ -29065,7 +28101,7 @@
         "z": "5316d42f.ab97dc",
         "g": "ece9d4bb.8ea598",
         "name": "Chauffage On ?",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 3,
         "outputs": 2,
         "halt_if": "on",
@@ -29088,6 +28124,8 @@
                 "valueType": "entity"
             }
         ],
+        "for": "",
+        "forType": "num",
         "x": 300,
         "y": 1240,
         "wires": [
@@ -29103,7 +28141,7 @@
         "z": "5316d42f.ab97dc",
         "g": "ec122d7706b9e41c",
         "name": "Action app",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 1,
         "event_type": "mobile_app_notification_action",
         "exposeToHomeAssistant": false,
@@ -29152,7 +28190,7 @@
         "z": "5316d42f.ab97dc",
         "g": "6177905c.1d86",
         "name": "Cuisine",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 4,
         "exposeToHomeAssistant": false,
         "haConfig": [
@@ -29216,7 +28254,7 @@
         "z": "5316d42f.ab97dc",
         "g": "6177905c.1d86",
         "name": "Garage",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 4,
         "exposeToHomeAssistant": false,
         "haConfig": [
@@ -29280,7 +28318,7 @@
         "z": "5316d42f.ab97dc",
         "g": "6177905c.1d86",
         "name": "Salon",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 4,
         "exposeToHomeAssistant": false,
         "haConfig": [
@@ -29344,7 +28382,7 @@
         "z": "5316d42f.ab97dc",
         "g": "6177905c.1d86",
         "name": "SDB",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 4,
         "exposeToHomeAssistant": false,
         "haConfig": [
@@ -29408,7 +28446,7 @@
         "z": "5316d42f.ab97dc",
         "g": "6177905c.1d86",
         "name": "Bureau",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 4,
         "exposeToHomeAssistant": false,
         "haConfig": [
@@ -29472,7 +28510,7 @@
         "z": "5316d42f.ab97dc",
         "g": "64acaad.81af854",
         "name": "Nbre de pièces",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 4,
         "exposeToHomeAssistant": false,
         "haConfig": [
@@ -29536,7 +28574,7 @@
         "z": "5316d42f.ab97dc",
         "g": "64acaad.81af854",
         "name": "Tempo ON",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 4,
         "exposeToHomeAssistant": false,
         "haConfig": [
@@ -29600,7 +28638,7 @@
         "z": "5316d42f.ab97dc",
         "g": "64acaad.81af854",
         "name": "Tempo OFF",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 4,
         "exposeToHomeAssistant": false,
         "haConfig": [
@@ -29664,7 +28702,7 @@
         "z": "5316d42f.ab97dc",
         "g": "6177905c.1d86",
         "name": "Couloir",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 4,
         "exposeToHomeAssistant": false,
         "haConfig": [
@@ -29728,7 +28766,7 @@
         "z": "5316d42f.ab97dc",
         "g": "6177905c.1d86",
         "name": "Ch Stelio",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 4,
         "exposeToHomeAssistant": false,
         "haConfig": [
@@ -29792,7 +28830,7 @@
         "z": "5316d42f.ab97dc",
         "g": "64acaad.81af854",
         "name": "Chauffage on/off",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 4,
         "exposeToHomeAssistant": false,
         "haConfig": [
@@ -29856,7 +28894,7 @@
         "z": "5316d42f.ab97dc",
         "g": "ece9d4bb.8ea598",
         "name": "Couché enfants",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 4,
         "exposeToHomeAssistant": false,
         "haConfig": [
@@ -29920,7 +28958,7 @@
         "z": "5316d42f.ab97dc",
         "g": "ece9d4bb.8ea598",
         "name": "Levé enfants",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 4,
         "exposeToHomeAssistant": false,
         "haConfig": [
@@ -29984,7 +29022,7 @@
         "z": "5316d42f.ab97dc",
         "g": "ece9d4bb.8ea598",
         "name": "Couché parents",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 4,
         "exposeToHomeAssistant": false,
         "haConfig": [
@@ -30048,7 +29086,7 @@
         "z": "5316d42f.ab97dc",
         "g": "ece9d4bb.8ea598",
         "name": "Levé parents",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 4,
         "exposeToHomeAssistant": false,
         "haConfig": [
@@ -30112,7 +29150,7 @@
         "z": "5316d42f.ab97dc",
         "g": "449a1278.f6048c",
         "name": "Présence",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 4,
         "exposeToHomeAssistant": false,
         "haConfig": [
@@ -30176,7 +29214,7 @@
         "z": "5316d42f.ab97dc",
         "d": true,
         "name": "T° Boiler",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 4,
         "exposeToHomeAssistant": false,
         "haConfig": [
@@ -30240,7 +29278,7 @@
         "z": "5316d42f.ab97dc",
         "g": "2b3a788f.9c40d8",
         "name": "Chaudiere",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 4,
         "exposeToHomeAssistant": false,
         "haConfig": [
@@ -30304,7 +29342,7 @@
         "z": "5316d42f.ab97dc",
         "g": "98e748f4598d0b92",
         "name": "Bool reset chaud",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 4,
         "exposeToHomeAssistant": false,
         "haConfig": [
@@ -30358,7 +29396,7 @@
         "z": "5316d42f.ab97dc",
         "g": "ec122d7706b9e41c",
         "name": "Relais Chauidiere",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 4,
         "exposeToHomeAssistant": false,
         "haConfig": [
@@ -30411,7 +29449,7 @@
         "z": "5316d42f.ab97dc",
         "g": "ec122d7706b9e41c",
         "name": "NB boolean on",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 0,
         "rules": [
             {
@@ -30440,7 +29478,7 @@
         "z": "5316d42f.ab97dc",
         "g": "449a1278.f6048c",
         "name": "Thermostat triggered",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 2,
         "exposeToHomeAssistant": false,
         "haConfig": [
@@ -30461,10 +29499,10 @@
                 "targetType": "this_entity",
                 "targetValue": "",
                 "propertyType": "current_state",
+                "propertyValue": "new_state.state",
                 "comparatorType": "is_not",
                 "comparatorValueDatatype": "str",
-                "comparatorValue": "",
-                "propertyValue": "new_state.state"
+                "comparatorValue": ""
             }
         ],
         "inputs": 1,
@@ -30676,7 +29714,9 @@
         "topic": "/ESP_RFID/RFID/Tag",
         "qos": "1",
         "datatype": "auto",
-        "broker": "5bb4a1c1.27662",
+        "broker": "6ab4d33316cf218b",
+        "nl": false,
+        "rap": false,
         "inputs": 0,
         "x": 90,
         "y": 440,
@@ -31127,7 +30167,7 @@
         "z": "263d20821b09b78e",
         "g": "9105dff9c696bb0b",
         "name": "desarmer",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "alarm_control_panel",
@@ -31155,7 +30195,7 @@
         "z": "263d20821b09b78e",
         "g": "9105dff9c696bb0b",
         "name": "armer nuit",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "alarm_control_panel",
@@ -31183,7 +30223,7 @@
         "z": "263d20821b09b78e",
         "g": "9105dff9c696bb0b",
         "name": "armer absent",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 5,
         "debugenabled": false,
         "domain": "alarm_control_panel",
@@ -31213,7 +30253,7 @@
         "z": "263d20821b09b78e",
         "g": "0eba983f137ff62c",
         "name": "Disarmed?",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 3,
         "outputs": 2,
         "halt_if": "disarmed",
@@ -31236,6 +30276,8 @@
                 "valueType": "entity"
             }
         ],
+        "for": "",
+        "forType": "num",
         "x": 610,
         "y": 220,
         "wires": [
@@ -31252,7 +30294,7 @@
         "z": "263d20821b09b78e",
         "g": "0eba983f137ff62c",
         "name": "Déclenchée?",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 3,
         "outputs": 2,
         "halt_if": "triggered",
@@ -31275,6 +30317,8 @@
                 "valueType": "entity"
             }
         ],
+        "for": "",
+        "forType": "num",
         "x": 610,
         "y": 280,
         "wires": [
@@ -31290,7 +30334,7 @@
         "z": "263d20821b09b78e",
         "g": "9105dff9c696bb0b",
         "name": "Armée?",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 3,
         "outputs": 2,
         "halt_if": "armed_away",
@@ -31313,6 +30357,8 @@
                 "valueType": "entity"
             }
         ],
+        "for": "",
+        "forType": "num",
         "x": 380,
         "y": 440,
         "wires": [
@@ -31330,7 +30376,7 @@
         "z": "263d20821b09b78e",
         "g": "9105dff9c696bb0b",
         "name": "Armée?",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 3,
         "outputs": 2,
         "halt_if": "disarmed",
@@ -31353,6 +30399,8 @@
                 "valueType": "entity"
             }
         ],
+        "for": "",
+        "forType": "num",
         "x": 260,
         "y": 500,
         "wires": [
@@ -31368,7 +30416,7 @@
         "z": "263d20821b09b78e",
         "g": "9105dff9c696bb0b",
         "name": "Etat périmétrique",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 3,
         "outputs": 2,
         "halt_if": "on",
@@ -31391,6 +30439,8 @@
                 "valueType": "entity"
             }
         ],
+        "for": "",
+        "forType": "num",
         "x": 330,
         "y": 620,
         "wires": [
@@ -31408,7 +30458,7 @@
         "z": "263d20821b09b78e",
         "g": "9105dff9c696bb0b",
         "name": "Mode nuit ?",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 3,
         "outputs": 2,
         "halt_if": "Nuit",
@@ -31431,6 +30481,8 @@
                 "valueType": "entity"
             }
         ],
+        "for": "",
+        "forType": "num",
         "x": 530,
         "y": 660,
         "wires": [
@@ -31448,7 +30500,7 @@
         "z": "263d20821b09b78e",
         "g": "9105dff9c696bb0b",
         "name": "Armed away?",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 3,
         "outputs": 2,
         "halt_if": "armed_away",
@@ -31471,6 +30523,8 @@
                 "valueType": "entity"
             }
         ],
+        "for": "",
+        "forType": "num",
         "x": 780,
         "y": 720,
         "wires": [
@@ -31486,7 +30540,7 @@
         "z": "263d20821b09b78e",
         "g": "9105dff9c696bb0b",
         "name": "Mode nuit ?",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 3,
         "outputs": 2,
         "halt_if": "Nuit",
@@ -31509,6 +30563,8 @@
                 "valueType": "entity"
             }
         ],
+        "for": "",
+        "forType": "num",
         "x": 1130,
         "y": 580,
         "wires": [
@@ -31526,7 +30582,7 @@
         "z": "263d20821b09b78e",
         "g": "0eba983f137ff62c",
         "name": "Home Alarm Mode",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 4,
         "exposeToHomeAssistant": false,
         "haConfig": [],
@@ -31582,7 +30638,7 @@
         "z": "263d20821b09b78e",
         "g": "9105dff9c696bb0b",
         "name": "jona finger",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 4,
         "exposeToHomeAssistant": false,
         "haConfig": [
@@ -31647,7 +30703,7 @@
         "z": "263d20821b09b78e",
         "g": "9105dff9c696bb0b",
         "name": "Portes/Fenetres ouvertes?",
-        "server": "74ee819e.f5e25",
+        "server": "5261c37d2408eef8",
         "version": 0,
         "rules": [
             {
