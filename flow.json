@@ -561,7 +561,9 @@
             "33b460a1df6f980e"
         ],
         "x": 14,
-        "y": 19
+        "y": 19,
+        "w": 752,
+        "h": 522
     },
     {
         "id": "9252146b.03fc08",
@@ -581,7 +583,9 @@
             "5138750f5cc6dd63"
         ],
         "x": 1354,
-        "y": 19
+        "y": 19,
+        "w": 532,
+        "h": 122
     },
     {
         "id": "5543a07b.da5c6",
@@ -643,7 +647,9 @@
             "49988c0962f264d7"
         ],
         "x": 794,
-        "y": 459
+        "y": 459,
+        "w": 912,
+        "h": 302
     },
     {
         "id": "a0b00255.fbed9",
@@ -662,7 +668,9 @@
             "29e57792.c46908"
         ],
         "x": 1214,
-        "y": 399
+        "y": 399,
+        "w": 312,
+        "h": 122
     },
     {
         "id": "626f2fe9.095fe",
@@ -819,7 +827,9 @@
             "3c1128c0.26fa18"
         ],
         "x": 1214,
-        "y": 19
+        "y": 19,
+        "w": 812,
+        "h": 202
     },
     {
         "id": "f894ff9b.c4edc",
@@ -936,7 +946,9 @@
             "c9218987.519048"
         ],
         "x": 1214,
-        "y": 239
+        "y": 239,
+        "w": 592,
+        "h": 142
     },
     {
         "id": "5ea4b337.ab2bcc",
@@ -986,7 +998,9 @@
             "dfe297eb.4c59e8"
         ],
         "x": 1014,
-        "y": 779
+        "y": 779,
+        "w": 532,
+        "h": 189.5
     },
     {
         "id": "4a69ca19.2da874",
@@ -1010,7 +1024,9 @@
             "b72bb6a6.9eb048"
         ],
         "x": 14,
-        "y": 559
+        "y": 559,
+        "w": 752,
+        "h": 202
     },
     {
         "id": "ec77e8f6.b62408",
@@ -1531,7 +1547,9 @@
             "564c8b8.2d69374"
         ],
         "x": 794,
-        "y": 259
+        "y": 259,
+        "w": 912,
+        "h": 182
     },
     {
         "id": "319c7d7d.cd7122",
@@ -1550,7 +1568,9 @@
             "81bb9d24.9941e"
         ],
         "x": 1214,
-        "y": 539
+        "y": 539,
+        "w": 572,
+        "h": 82
     },
     {
         "id": "3deb6699.aaf26a",
@@ -1922,7 +1942,9 @@
             "55f1e1b5bba447fa"
         ],
         "x": 14,
-        "y": 1039
+        "y": 1039,
+        "w": 1232,
+        "h": 382
     },
     {
         "id": "e6854997.1052a8",
@@ -1946,7 +1968,9 @@
             "87dad04bca425372"
         ],
         "x": 794,
-        "y": 19
+        "y": 19,
+        "w": 532,
+        "h": 222
     },
     {
         "id": "98e748f4598d0b92",
@@ -2104,11 +2128,13 @@
             "11c9c8fc154dcbb8",
             "c025155a47da75ed",
             "c5b0a6cbb86d81f6",
-            "269843cdf016aa16",
-            "bfa73c8e7ac8a253"
+            "bfa73c8e7ac8a253",
+            "2d0f8e7e196b8308"
         ],
         "x": 14,
-        "y": 779
+        "y": 779,
+        "w": 992,
+        "h": 242
     },
     {
         "id": "a4d10e3019b9b0f6",
@@ -2536,7 +2562,9 @@
             "c5eb0710d25f5545"
         ],
         "x": 1174,
-        "y": 719
+        "y": 719,
+        "w": 932,
+        "h": 82
     },
     {
         "id": "bdbdf04ba46f69a3",
@@ -3171,8 +3199,8 @@
         "id": "b992d1e40c8f54ce",
         "type": "function",
         "z": "3d40e23b.ebcdce",
-        "name": "Magic Mirror Sleep",
-        "func": "var url = \"http://192.168.100.11:8000/default.htm?COMMAND=SCREENOFF\"; \nmsg.url = url;\n\nreturn msg;\n\n",
+        "name": "Dynaframe Sleep",
+        "func": "var url = \"http://192.168.100.11/command/?COMMAND=SCREENSTATE&VALUE=false\"; \nmsg.url = url;\n\nreturn msg;\n\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -15977,7 +16005,7 @@
         "y": 980,
         "wires": [
             [
-                "269843cdf016aa16"
+                "2d0f8e7e196b8308"
             ],
             []
         ]
@@ -16003,18 +16031,18 @@
         ]
     },
     {
-        "id": "269843cdf016aa16",
+        "id": "2d0f8e7e196b8308",
         "type": "function",
         "z": "8a56250a.f42758",
         "g": "cd39ecf3.69ae3",
-        "name": "Magic Mirror Sleep",
-        "func": "var url = \"http://192.168.100.11:8000/default.htm?COMMAND=SCREENON\"; \nmsg.url = url;\n\nreturn msg;\n\n",
+        "name": "Dynaframe Sleep",
+        "func": "var url = \"http://192.168.100.11/command/?COMMAND=SCREENSTATE&VALUE=true\"; \nmsg.url = url;\n\nreturn msg;\n\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 730,
+        "x": 750,
         "y": 980,
         "wires": [
             [
@@ -24089,100 +24117,6 @@
         ]
     },
     {
-        "id": "e6dfcd2a3a9fe586",
-        "type": "http request",
-        "z": "797e40da.11773",
-        "name": "Post",
-        "method": "POST",
-        "ret": "txt",
-        "paytoqs": "ignore",
-        "url": "http://192.168.100.49:5000/api/brightness",
-        "tls": "",
-        "persist": false,
-        "proxy": "",
-        "authType": "",
-        "senderr": false,
-        "headers": [],
-        "x": 610,
-        "y": 280,
-        "wires": [
-            [
-                "7eced0365e41c76d"
-            ]
-        ]
-    },
-    {
-        "id": "3ff2bda6d2f67cfe",
-        "type": "inject",
-        "z": "797e40da.11773",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            },
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "",
-        "payloadType": "date",
-        "x": 200,
-        "y": 280,
-        "wires": [
-            [
-                "768524cbec315131"
-            ]
-        ]
-    },
-    {
-        "id": "768524cbec315131",
-        "type": "function",
-        "z": "797e40da.11773",
-        "name": "PingPongClock Sleep",
-        "func": "msg.payload = { 'brightness': '0' };\nmsg.headers = {\n    'content-type': 'application/x-www-form-urlencoded'\n}\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 400,
-        "y": 280,
-        "wires": [
-            [
-                "e6dfcd2a3a9fe586"
-            ]
-        ]
-    },
-    {
-        "id": "ad97c5d506c7e410",
-        "type": "http request",
-        "z": "797e40da.11773",
-        "name": "",
-        "method": "POST",
-        "ret": "txt",
-        "paytoqs": "ignore",
-        "url": "http://192.168.100.49:5000/api/brightness",
-        "tls": "",
-        "persist": false,
-        "proxy": "",
-        "authType": "",
-        "senderr": false,
-        "headers": [],
-        "x": 590,
-        "y": 420,
-        "wires": [
-            [
-                "7eced0365e41c76d"
-            ]
-        ]
-    },
-    {
         "id": "8fc8fa6b348283eb",
         "type": "inject",
         "z": "797e40da.11773",
@@ -24203,56 +24137,51 @@
         "topic": "",
         "payload": "",
         "payloadType": "date",
-        "x": 220,
-        "y": 420,
+        "x": 140,
+        "y": 480,
         "wires": [
             [
-                "7312aa456cd47d66"
+                "44aff98126ac0da4"
             ]
         ]
     },
     {
-        "id": "7312aa456cd47d66",
-        "type": "change",
+        "id": "3a2a8d4aa6221cfb",
+        "type": "http request",
         "z": "797e40da.11773",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "{\"brightness\":\"0\"}",
-                "tot": "json"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 400,
-        "y": 420,
+        "name": "Post",
+        "method": "POST",
+        "ret": "txt",
+        "paytoqs": "ignore",
+        "url": "",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "authType": "",
+        "x": 450,
+        "y": 540,
         "wires": [
-            [
-                "ad97c5d506c7e410"
-            ]
+            []
         ]
     },
     {
-        "id": "7eced0365e41c76d",
-        "type": "debug",
+        "id": "44aff98126ac0da4",
+        "type": "function",
         "z": "797e40da.11773",
-        "name": "debug 2",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "false",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 800,
-        "y": 320,
-        "wires": []
+        "name": "Dynaframe Sleep",
+        "func": "var url = \"http://192.168.100.11/command/?COMMAND=SCREENSTATE&VALUE=true\"; \nmsg.url = url;\n\nreturn msg;\n\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 270,
+        "y": 540,
+        "wires": [
+            [
+                "3a2a8d4aa6221cfb"
+            ]
+        ]
     },
     {
         "id": "d2706a2c.2df268",
