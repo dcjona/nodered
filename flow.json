@@ -1,13 +1,5 @@
 [
     {
-        "id": "c4cabdfe9549c77b",
-        "type": "tab",
-        "label": "Flow 1",
-        "disabled": false,
-        "info": "",
-        "env": []
-    },
-    {
         "id": "f1a202e8.6987c",
         "type": "tab",
         "label": "Mode",
@@ -269,6 +261,9 @@
                     },
                     {
                         "id": "14548d6ec4db918d"
+                    },
+                    {
+                        "id": "065fabb11fd4f46a"
                     }
                 ]
             }
@@ -668,9 +663,7 @@
             "29e57792.c46908"
         ],
         "x": 1214,
-        "y": 399,
-        "w": 312,
-        "h": 122
+        "y": 399
     },
     {
         "id": "626f2fe9.095fe",
@@ -827,9 +820,7 @@
             "3c1128c0.26fa18"
         ],
         "x": 1214,
-        "y": 19,
-        "w": 812,
-        "h": 202
+        "y": 19
     },
     {
         "id": "f894ff9b.c4edc",
@@ -946,9 +937,7 @@
             "c9218987.519048"
         ],
         "x": 1214,
-        "y": 239,
-        "w": 592,
-        "h": 142
+        "y": 239
     },
     {
         "id": "5ea4b337.ab2bcc",
@@ -1568,9 +1557,7 @@
             "81bb9d24.9941e"
         ],
         "x": 1214,
-        "y": 539,
-        "w": 572,
-        "h": 82
+        "y": 539
     },
     {
         "id": "3deb6699.aaf26a",
@@ -1939,12 +1926,14 @@
             "05f4ba2812777998",
             "c064f072de0c38e0",
             "d185ef8b3681029b",
-            "55f1e1b5bba447fa"
+            "55f1e1b5bba447fa",
+            "5ae57dfa58631796",
+            "be16fcb3a547b1e2"
         ],
         "x": 14,
         "y": 1039,
         "w": 1232,
-        "h": 382
+        "h": 402
     },
     {
         "id": "e6854997.1052a8",
@@ -2347,8 +2336,8 @@
             "2b1fab8ff8a48680",
             "975dc9f66d98ed83"
         ],
-        "x": 54,
-        "y": 251.5
+        "x": 74,
+        "y": 371.5
     },
     {
         "id": "0b27e68a463c22e0",
@@ -2361,9 +2350,11 @@
         },
         "nodes": [
             "f8197256168272d2",
-            "f00a7c8667e77272"
+            "f00a7c8667e77272",
+            "3ff6b133770b8a8f",
+            "042224745be42ef4"
         ],
-        "x": 54,
+        "x": 74,
         "y": 19
     },
     {
@@ -2381,8 +2372,8 @@
             "419c62449c2f2dfe",
             "289b8033bce72f0f"
         ],
-        "x": 54,
-        "y": 119
+        "x": 74,
+        "y": 239
     },
     {
         "id": "0eba983f137ff62c",
@@ -2475,8 +2466,8 @@
             "b5091d5212a71a8a",
             "594ae84fa8ee17ba"
         ],
-        "x": 514,
-        "y": 259
+        "x": 534,
+        "y": 379
     },
     {
         "id": "98198cf891c2ace2",
@@ -2491,8 +2482,8 @@
         "nodes": [
             "8686df4b89a6de13"
         ],
-        "x": 514,
-        "y": 359
+        "x": 534,
+        "y": 479
     },
     {
         "id": "bec07b1174c81ee8",
@@ -2543,8 +2534,8 @@
         "nodes": [
             "08321701017ef81f"
         ],
-        "x": 514,
-        "y": 459
+        "x": 534,
+        "y": 579
     },
     {
         "id": "85a97edfa1d2390b",
@@ -2562,9 +2553,7 @@
             "c5eb0710d25f5545"
         ],
         "x": 1174,
-        "y": 719,
-        "w": 932,
-        "h": 82
+        "y": 719
     },
     {
         "id": "bdbdf04ba46f69a3",
@@ -2578,8 +2567,33 @@
             "06bf762192c56c4d",
             "6c9cac2d9da909b6"
         ],
-        "x": 54,
-        "y": 459
+        "x": 74,
+        "y": 579
+    },
+    {
+        "id": "4cf256a647d2be52",
+        "type": "group",
+        "z": "b3af9cb9.a9fa9",
+        "name": "Dynaframe",
+        "style": {
+            "stroke": "#9363b7",
+            "fill": "#bfdbef",
+            "label": true
+        },
+        "nodes": [
+            "1a82527adcb22f1d",
+            "7a3ad8d52c04acb9",
+            "30ca8a5abe586f74",
+            "a9898fec9f87c52d",
+            "506983f8c150889a",
+            "1293d9fe2253074b",
+            "b070bd4a4b9ea897",
+            "7fa63614cbb2ca42",
+            "ffa8a1e4e61c8fbf",
+            "8339194170867fa2"
+        ],
+        "x": 34,
+        "y": 479
     },
     {
         "id": "cc0c4690.5682a8",
@@ -2604,15 +2618,6 @@
         "id": "256b5521.24a2aa",
         "type": "googleCredentials",
         "name": "Gcal"
-    },
-    {
-        "id": "a8fc6cf3.c8e82",
-        "type": "hue-bridge",
-        "name": "Philips hue",
-        "bridge": "192.168.100.221",
-        "key": "xbrzwN8ItG46YOtb2y-Mjk9AfN5BfSbHokKmFuWt",
-        "worker": "10",
-        "disableupdates": false
     },
     {
         "id": "d52de313.05495",
@@ -3046,7 +3051,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 330,
+        "x": 310,
         "y": 420,
         "wires": [
             [
@@ -3549,6 +3554,7 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
+        "libs": [],
         "x": 290,
         "y": 100,
         "wires": [
@@ -3596,6 +3602,51 @@
                 "4eedb04d2d640282"
             ]
         ]
+    },
+    {
+        "id": "065fabb11fd4f46a",
+        "type": "change",
+        "z": "d6013eec.a94ed",
+        "name": "On",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\"power\": true}",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 230,
+        "y": 220,
+        "wires": [
+            [
+                "4ad6e10de9528df0"
+            ]
+        ]
+    },
+    {
+        "id": "4ad6e10de9528df0",
+        "type": "mqtt out",
+        "z": "d6013eec.a94ed",
+        "name": "Awtrix Salon",
+        "topic": "Salon/Awtrix_salon/basics",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "6ab4d33316cf218b",
+        "x": 370,
+        "y": 220,
+        "wires": []
     },
     {
         "id": "89d99519.bceb78",
@@ -7450,6 +7501,7 @@
         "links": [
             "f00a7c8667e77272"
         ],
+        "linkType": "static",
         "timeout": "30",
         "x": 440,
         "y": 600,
@@ -7877,7 +7929,8 @@
         "y": 840,
         "wires": [
             [
-                "25aa0b85.9741e4"
+                "25aa0b85.9741e4",
+                "6d88bf1bd4558754"
             ]
         ]
     },
@@ -7953,10 +8006,7 @@
         "areaId": [],
         "deviceId": [],
         "entityId": [
-            "cover.volet_salon_full",
-            "cover.volet_sdb",
-            "cover.volet_bureau",
-            "cover.volet_stelio"
+            "cover.volet_full"
         ],
         "data": "",
         "dataType": "json",
@@ -8800,6 +8850,62 @@
         ]
     },
     {
+        "id": "6d88bf1bd4558754",
+        "type": "api-call-service",
+        "z": "f1a202e8.6987c",
+        "name": "Monter Volets",
+        "server": "5261c37d2408eef8",
+        "version": 5,
+        "debugenabled": false,
+        "domain": "cover",
+        "service": "open_cover",
+        "areaId": [],
+        "deviceId": [],
+        "entityId": [
+            "cover.volet_salon"
+        ],
+        "data": "",
+        "dataType": "json",
+        "mergeContext": "",
+        "mustacheAltTags": false,
+        "outputProperties": [],
+        "queue": "none",
+        "x": 860,
+        "y": 800,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "d5c5b6307f646b6d",
+        "type": "inject",
+        "z": "f1a202e8.6987c",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 100,
+        "y": 920,
+        "wires": [
+            [
+                "af0c308f.b7f1f"
+            ]
+        ]
+    },
+    {
         "id": "727ba882.fab928",
         "type": "link in",
         "z": "6abc28ed.f003a8",
@@ -9222,8 +9328,8 @@
         "rap": true,
         "rh": 0,
         "inputs": 0,
-        "x": 150,
-        "y": 300,
+        "x": 170,
+        "y": 420,
         "wires": [
             [
                 "2b1fab8ff8a48680"
@@ -9239,8 +9345,8 @@
         "property": "payload",
         "action": "",
         "pretty": false,
-        "x": 290,
-        "y": 300,
+        "x": 310,
+        "y": 420,
         "wires": [
             [
                 "975dc9f66d98ed83"
@@ -9275,8 +9381,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 3,
-        "x": 410,
-        "y": 300,
+        "x": 430,
+        "y": 420,
         "wires": [
             [
                 "b5091d5212a71a8a"
@@ -9328,7 +9434,7 @@
             "b1df8b44.c7d148",
             "c45c16f1.cbb798"
         ],
-        "x": 150,
+        "x": 170,
         "y": 60,
         "wires": [
             [
@@ -9350,8 +9456,8 @@
             "a7e9ec54d33405d8",
             "e218c78833b1311c"
         ],
-        "x": 170,
-        "y": 160,
+        "x": 190,
+        "y": 280,
         "wires": [
             [
                 "419c62449c2f2dfe"
@@ -9379,8 +9485,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 500,
-        "y": 200,
+        "x": 520,
+        "y": 320,
         "wires": [
             [
                 "a70eeae05b5aea4b",
@@ -9408,8 +9514,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 490,
-        "y": 160,
+        "x": 510,
+        "y": 280,
         "wires": [
             [
                 "a70eeae05b5aea4b"
@@ -9436,8 +9542,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 620,
-        "y": 300,
+        "x": 640,
+        "y": 420,
         "wires": [
             [
                 "594ae84fa8ee17ba"
@@ -9456,8 +9562,8 @@
         "syntax": "mustache",
         "template": " {{{payload}}} semble ouverte merci de vérifier son état",
         "output": "str",
-        "x": 830,
-        "y": 300,
+        "x": 850,
+        "y": 420,
         "wires": [
             [
                 "b5abcf9b28b062ab",
@@ -9546,8 +9652,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 640,
-        "y": 400,
+        "x": 660,
+        "y": 520,
         "wires": [
             [
                 "b5abcf9b28b062ab",
@@ -9704,8 +9810,8 @@
         "mustacheAltTags": false,
         "outputProperties": [],
         "queue": "none",
-        "x": 610,
-        "y": 500,
+        "x": 630,
+        "y": 620,
         "wires": [
             [
                 "32c2a1af6815b986"
@@ -9734,8 +9840,8 @@
         "mustacheAltTags": false,
         "outputProperties": [],
         "queue": "none",
-        "x": 280,
-        "y": 500,
+        "x": 300,
+        "y": 620,
         "wires": [
             []
         ]
@@ -9817,8 +9923,8 @@
         "override_payload": "msg",
         "entity_location": "data",
         "override_data": "msg",
-        "x": 330,
-        "y": 160,
+        "x": 350,
+        "y": 280,
         "wires": [
             [
                 "289b8033bce72f0f"
@@ -9977,8 +10083,8 @@
                 "valueType": "triggerId"
             }
         ],
-        "x": 130,
-        "y": 500,
+        "x": 150,
+        "y": 620,
         "wires": [
             [
                 "6c9cac2d9da909b6"
@@ -10001,9 +10107,107 @@
         "z": "6abc28ed.f003a8",
         "name": "Armed Away",
         "env": [],
-        "x": 770,
-        "y": 200,
+        "x": 790,
+        "y": 320,
         "wires": []
+    },
+    {
+        "id": "3ff6b133770b8a8f",
+        "type": "server-state-changed",
+        "z": "6abc28ed.f003a8",
+        "g": "0b27e68a463c22e0",
+        "name": "Statut Alarmo",
+        "server": "5261c37d2408eef8",
+        "version": 4,
+        "exposeToHomeAssistant": false,
+        "haConfig": [
+            {
+                "property": "name",
+                "value": ""
+            },
+            {
+                "property": "icon",
+                "value": ""
+            }
+        ],
+        "entityidfilter": "alarm_control_panel.alarmo",
+        "entityidfiltertype": "exact",
+        "outputinitially": false,
+        "state_type": "str",
+        "haltifstate": "",
+        "halt_if_type": "str",
+        "halt_if_compare": "is",
+        "outputs": 1,
+        "output_only_on_state_change": true,
+        "for": "0",
+        "forType": "num",
+        "forUnits": "minutes",
+        "ignorePrevStateNull": false,
+        "ignorePrevStateUnknown": false,
+        "ignorePrevStateUnavailable": false,
+        "ignoreCurrentStateUnknown": false,
+        "ignoreCurrentStateUnavailable": false,
+        "outputProperties": [
+            {
+                "property": "payload",
+                "propertyType": "msg",
+                "value": "",
+                "valueType": "entityState"
+            },
+            {
+                "property": "data",
+                "propertyType": "msg",
+                "value": "",
+                "valueType": "eventData"
+            },
+            {
+                "property": "topic",
+                "propertyType": "msg",
+                "value": "",
+                "valueType": "triggerId"
+            }
+        ],
+        "x": 170,
+        "y": 140,
+        "wires": [
+            [
+                "042224745be42ef4"
+            ]
+        ]
+    },
+    {
+        "id": "042224745be42ef4",
+        "type": "switch",
+        "z": "6abc28ed.f003a8",
+        "g": "0b27e68a463c22e0",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "disarmed",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "armed_away",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 350,
+        "y": 140,
+        "wires": [
+            [
+                "a057cfa4c9028844"
+            ],
+            [
+                "141c74652179e87c"
+            ]
+        ]
     },
     {
         "id": "411a1a06.a2ba04",
@@ -10266,11 +10470,10 @@
         "z": "fd9f1c1.a5554e",
         "g": "65d645b.a57d1bc",
         "name": "Alarm Off Out",
+        "mode": "link",
         "links": [
-            "f55dbbd6.1c7748",
-            "f00a7c8667e77272",
-            "a6b453d5e5be2e07",
-            "196b01a3084a84ae"
+            "196b01a3084a84ae",
+            "f00a7c8667e77272"
         ],
         "x": 740,
         "y": 360,
@@ -13972,13 +14175,15 @@
         "repair": false,
         "outputs": 8,
         "x": 270,
-        "y": 1200,
+        "y": 1220,
         "wires": [
             [
-                "f65497d7a5f44bad"
+                "f65497d7a5f44bad",
+                "5ae57dfa58631796"
             ],
             [
-                "fbdf9c106761da95"
+                "fbdf9c106761da95",
+                "be16fcb3a547b1e2"
             ],
             [
                 "b4d0d73718855e7a"
@@ -14016,7 +14221,7 @@
         "expiry": "",
         "broker": "6ab4d33316cf218b",
         "x": 1020,
-        "y": 1100,
+        "y": 1120,
         "wires": []
     },
     {
@@ -14040,7 +14245,7 @@
         "to": "",
         "reg": false,
         "x": 830,
-        "y": 1080,
+        "y": 1100,
         "wires": [
             [
                 "6f25b021db94d843"
@@ -14068,7 +14273,7 @@
         "to": "",
         "reg": false,
         "x": 830,
-        "y": 1140,
+        "y": 1160,
         "wires": [
             [
                 "6f25b021db94d843"
@@ -14602,7 +14807,7 @@
         "filterChanges": true,
         "enableMultiple": false,
         "x": 110,
-        "y": 1200,
+        "y": 1220,
         "wires": [
             [
                 "9570b71a2fed884e"
@@ -15123,12 +15328,11 @@
         "areaId": [],
         "deviceId": [],
         "entityId": [
+            "light.lsc_moodlight_rgb_cct",
             "light.lampadaire_bureau",
             "light.led_bureau",
             "light.livingcolors_1",
-            "light.boule",
-            "light.cadre",
-            "light.synfonisk_back"
+            "light.symfonisk_back"
         ],
         "data": "",
         "dataType": "jsonata",
@@ -15137,7 +15341,7 @@
         "outputProperties": [],
         "queue": "none",
         "x": 650,
-        "y": 1180,
+        "y": 1200,
         "wires": [
             [
                 "05f4ba2812777998"
@@ -15158,12 +15362,11 @@
         "areaId": [],
         "deviceId": [],
         "entityId": [
+            "light.lsc_moodlight_rgb_cct",
             "light.lampadaire_bureau",
             "light.led_bureau",
             "light.livingcolors_1",
-            "light.boule",
-            "light.cadre",
-            "light.synfonisk_back"
+            "light.symfonisk_back"
         ],
         "data": "",
         "dataType": "jsonata",
@@ -15172,7 +15375,7 @@
         "outputProperties": [],
         "queue": "none",
         "x": 660,
-        "y": 1220,
+        "y": 1240,
         "wires": [
             [
                 "c064f072de0c38e0"
@@ -15202,7 +15405,7 @@
         "outputProperties": [],
         "queue": "none",
         "x": 670,
-        "y": 1140,
+        "y": 1160,
         "wires": [
             [
                 "cfbb5ea3ec342ab3"
@@ -15232,7 +15435,7 @@
         "outputProperties": [],
         "queue": "none",
         "x": 670,
-        "y": 1080,
+        "y": 1100,
         "wires": [
             [
                 "aa5b98fe89729c88"
@@ -15262,7 +15465,7 @@
         "outputProperties": [],
         "queue": "none",
         "x": 670,
-        "y": 1260,
+        "y": 1280,
         "wires": [
             []
         ]
@@ -15290,7 +15493,7 @@
         "outputProperties": [],
         "queue": "none",
         "x": 670,
-        "y": 1300,
+        "y": 1320,
         "wires": [
             []
         ]
@@ -15316,7 +15519,7 @@
         "outputProperties": [],
         "queue": "none",
         "x": 680,
-        "y": 1340,
+        "y": 1360,
         "wires": [
             []
         ]
@@ -15342,7 +15545,7 @@
         "outputProperties": [],
         "queue": "none",
         "x": 680,
-        "y": 1380,
+        "y": 1400,
         "wires": [
             []
         ]
@@ -15428,7 +15631,7 @@
         "outputProperties": [],
         "queue": "none",
         "x": 870,
-        "y": 1180,
+        "y": 1200,
         "wires": [
             [
                 "d185ef8b3681029b"
@@ -15458,7 +15661,7 @@
         "outputProperties": [],
         "queue": "none",
         "x": 870,
-        "y": 1220,
+        "y": 1240,
         "wires": [
             [
                 "55f1e1b5bba447fa"
@@ -15687,7 +15890,7 @@
         "outputProperties": [],
         "queue": "none",
         "x": 1100,
-        "y": 1180,
+        "y": 1200,
         "wires": [
             []
         ]
@@ -15715,7 +15918,7 @@
         "outputProperties": [],
         "queue": "none",
         "x": 1080,
-        "y": 1220,
+        "y": 1240,
         "wires": [
             []
         ]
@@ -15934,6 +16137,7 @@
         "id": "c025155a47da75ed",
         "type": "api-current-state",
         "z": "8a56250a.f42758",
+        "d": true,
         "g": "cd39ecf3.69ae3",
         "name": "Mode",
         "server": "5261c37d2408eef8",
@@ -16048,6 +16252,50 @@
             [
                 "bfa73c8e7ac8a253"
             ]
+        ]
+    },
+    {
+        "id": "5ae57dfa58631796",
+        "type": "http request",
+        "z": "8a56250a.f42758",
+        "g": "97bd8de5.cac92",
+        "name": "Dynaframe On",
+        "method": "POST",
+        "ret": "txt",
+        "paytoqs": "ignore",
+        "url": "http://192.168.100.218/command/?COMMAND=SCREENSTATE&VALUE=true",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 1000,
+        "y": 1080,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "be16fcb3a547b1e2",
+        "type": "http request",
+        "z": "8a56250a.f42758",
+        "g": "97bd8de5.cac92",
+        "name": "Dynaframe Off",
+        "method": "POST",
+        "ret": "txt",
+        "paytoqs": "ignore",
+        "url": "http://192.168.100.218/command/?COMMAND=SCREENSTATE&VALUE=false",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 1020,
+        "y": 1160,
+        "wires": [
+            []
         ]
     },
     {
@@ -18111,6 +18359,313 @@
                 "3ec919b0.8257d6"
             ],
             []
+        ]
+    },
+    {
+        "id": "1a82527adcb22f1d",
+        "type": "server-state-changed",
+        "z": "b3af9cb9.a9fa9",
+        "g": "4cf256a647d2be52",
+        "name": "Dynaframe On/Off",
+        "server": "5261c37d2408eef8",
+        "version": 4,
+        "exposeToHomeAssistant": false,
+        "haConfig": [
+            {
+                "property": "name",
+                "value": ""
+            },
+            {
+                "property": "icon",
+                "value": ""
+            }
+        ],
+        "entityidfilter": "input_boolean.cast_dashboard",
+        "entityidfiltertype": "exact",
+        "outputinitially": false,
+        "state_type": "str",
+        "haltifstate": "on",
+        "halt_if_type": "str",
+        "halt_if_compare": "is",
+        "outputs": 2,
+        "output_only_on_state_change": true,
+        "for": "0",
+        "forType": "num",
+        "forUnits": "minutes",
+        "ignorePrevStateNull": false,
+        "ignorePrevStateUnknown": false,
+        "ignorePrevStateUnavailable": false,
+        "ignoreCurrentStateUnknown": false,
+        "ignoreCurrentStateUnavailable": false,
+        "outputProperties": [
+            {
+                "property": "payload",
+                "propertyType": "msg",
+                "value": "",
+                "valueType": "entityState"
+            },
+            {
+                "property": "data",
+                "propertyType": "msg",
+                "value": "",
+                "valueType": "eventData"
+            },
+            {
+                "property": "topic",
+                "propertyType": "msg",
+                "value": "",
+                "valueType": "triggerId"
+            }
+        ],
+        "x": 150,
+        "y": 540,
+        "wires": [
+            [
+                "a9898fec9f87c52d"
+            ],
+            [
+                "30ca8a5abe586f74"
+            ]
+        ]
+    },
+    {
+        "id": "7a3ad8d52c04acb9",
+        "type": "http request",
+        "z": "b3af9cb9.a9fa9",
+        "g": "4cf256a647d2be52",
+        "name": "Post",
+        "method": "POST",
+        "ret": "txt",
+        "paytoqs": "ignore",
+        "url": "",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "authType": "",
+        "x": 830,
+        "y": 520,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "30ca8a5abe586f74",
+        "type": "function",
+        "z": "b3af9cb9.a9fa9",
+        "g": "4cf256a647d2be52",
+        "name": "Dynaframe Sleep",
+        "func": "var url = \"http://192.168.100.89/command/?COMMAND=SCREENSTATE&VALUE=false\"; \nmsg.url = url;\n\nreturn msg;\n\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 350,
+        "y": 560,
+        "wires": [
+            [
+                "7a3ad8d52c04acb9"
+            ]
+        ]
+    },
+    {
+        "id": "a9898fec9f87c52d",
+        "type": "function",
+        "z": "b3af9cb9.a9fa9",
+        "g": "4cf256a647d2be52",
+        "name": "Dynaframe Sleep",
+        "func": "var url = \"http://192.168.100.89/command/?COMMAND=SCREENSTATE&VALUE=true\"; \nmsg.url = url;\n\nreturn msg;\n\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 350,
+        "y": 520,
+        "wires": [
+            [
+                "7a3ad8d52c04acb9"
+            ]
+        ]
+    },
+    {
+        "id": "506983f8c150889a",
+        "type": "server-state-changed",
+        "z": "b3af9cb9.a9fa9",
+        "g": "4cf256a647d2be52",
+        "name": "Playlist",
+        "server": "5261c37d2408eef8",
+        "version": 4,
+        "exposeToHomeAssistant": false,
+        "haConfig": [
+            {
+                "property": "name",
+                "value": ""
+            },
+            {
+                "property": "icon",
+                "value": ""
+            }
+        ],
+        "entityidfilter": "input_select.playlist_dynaframe",
+        "entityidfiltertype": "exact",
+        "outputinitially": false,
+        "state_type": "str",
+        "haltifstate": "",
+        "halt_if_type": "str",
+        "halt_if_compare": "is",
+        "outputs": 1,
+        "output_only_on_state_change": false,
+        "for": "0",
+        "forType": "num",
+        "forUnits": "minutes",
+        "ignorePrevStateNull": false,
+        "ignorePrevStateUnknown": false,
+        "ignorePrevStateUnavailable": false,
+        "ignoreCurrentStateUnknown": false,
+        "ignoreCurrentStateUnavailable": false,
+        "outputProperties": [
+            {
+                "property": "payload",
+                "propertyType": "msg",
+                "value": "",
+                "valueType": "entityState"
+            },
+            {
+                "property": "data",
+                "propertyType": "msg",
+                "value": "",
+                "valueType": "eventData"
+            },
+            {
+                "property": "topic",
+                "propertyType": "msg",
+                "value": "",
+                "valueType": "triggerId"
+            }
+        ],
+        "x": 110,
+        "y": 660,
+        "wires": [
+            [
+                "7fa63614cbb2ca42"
+            ]
+        ]
+    },
+    {
+        "id": "1293d9fe2253074b",
+        "type": "function",
+        "z": "b3af9cb9.a9fa9",
+        "g": "4cf256a647d2be52",
+        "name": "Retirer Famille",
+        "func": "var url = \"http://192.168.100.89/command/?COMMAND=REMOVESUBDIRECTORY&VALUE=/home/pi/Pictures/Famille\"; \nmsg.url = url;\n\nreturn msg;\n\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 480,
+        "y": 640,
+        "wires": [
+            [
+                "b070bd4a4b9ea897",
+                "7a3ad8d52c04acb9"
+            ]
+        ]
+    },
+    {
+        "id": "b070bd4a4b9ea897",
+        "type": "function",
+        "z": "b3af9cb9.a9fa9",
+        "g": "4cf256a647d2be52",
+        "name": "Mettre NFT",
+        "func": "var url = \"http://192.168.100.89/command/?COMMAND=ADDSUBDIRECTORY&VALUE=/home/pi/Pictures/NFT\"; \nmsg.url = url;\n\nreturn msg;\n\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 650,
+        "y": 640,
+        "wires": [
+            [
+                "7a3ad8d52c04acb9"
+            ]
+        ]
+    },
+    {
+        "id": "7fa63614cbb2ca42",
+        "type": "switch",
+        "z": "b3af9cb9.a9fa9",
+        "g": "4cf256a647d2be52",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "NFT",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Famille",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 310,
+        "y": 660,
+        "wires": [
+            [
+                "1293d9fe2253074b"
+            ],
+            [
+                "8339194170867fa2"
+            ]
+        ]
+    },
+    {
+        "id": "ffa8a1e4e61c8fbf",
+        "type": "function",
+        "z": "b3af9cb9.a9fa9",
+        "g": "4cf256a647d2be52",
+        "name": "Mettre Famille",
+        "func": "var url = \"http://192.168.100.89/command/?COMMAND=ADDSUBDIRECTORY&VALUE=/home/pi/Pictures/Famille\"; \nmsg.url = url;\n\nreturn msg;\n\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 640,
+        "y": 680,
+        "wires": [
+            [
+                "7a3ad8d52c04acb9"
+            ]
+        ]
+    },
+    {
+        "id": "8339194170867fa2",
+        "type": "function",
+        "z": "b3af9cb9.a9fa9",
+        "g": "4cf256a647d2be52",
+        "name": "Retirer NFT",
+        "func": "var url = \"http://192.168.100.89/command/?COMMAND=REMOVESUBDIRECTORY&VALUE=/home/pi/Pictures/NFT\"; \nmsg.url = url;\n\nreturn msg;\n\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 470,
+        "y": 680,
+        "wires": [
+            [
+                "ffa8a1e4e61c8fbf",
+                "7a3ad8d52c04acb9"
+            ]
         ]
     },
     {
@@ -24113,73 +24668,6 @@
         "wires": [
             [
                 "90eae997.db5198"
-            ]
-        ]
-    },
-    {
-        "id": "8fc8fa6b348283eb",
-        "type": "inject",
-        "z": "797e40da.11773",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            },
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "",
-        "payloadType": "date",
-        "x": 140,
-        "y": 480,
-        "wires": [
-            [
-                "44aff98126ac0da4"
-            ]
-        ]
-    },
-    {
-        "id": "3a2a8d4aa6221cfb",
-        "type": "http request",
-        "z": "797e40da.11773",
-        "name": "Post",
-        "method": "POST",
-        "ret": "txt",
-        "paytoqs": "ignore",
-        "url": "",
-        "tls": "",
-        "persist": false,
-        "proxy": "",
-        "authType": "",
-        "x": 450,
-        "y": 540,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "44aff98126ac0da4",
-        "type": "function",
-        "z": "797e40da.11773",
-        "name": "Dynaframe Sleep",
-        "func": "var url = \"http://192.168.100.11/command/?COMMAND=SCREENSTATE&VALUE=true\"; \nmsg.url = url;\n\nreturn msg;\n\n",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 270,
-        "y": 540,
-        "wires": [
-            [
-                "3a2a8d4aa6221cfb"
             ]
         ]
     },
